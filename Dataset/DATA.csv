@@ -1,0 +1,711 @@
+ID,City,Age,Religion,Ethnic,Educational Level,Occupation,Social Class,Montly Expenditure for Food (%),Religious Value in Type of Food,Religious Value in Eating Places,Religious Value in Consumption Pattern,Practice of Food Consumption Based on Religious Rules,Practice of Food Consumption Based on Custom Rules,Buying Food Product in the Right Place Based on Religious Rules,Practice of Consumption Traditional Food
+1,Jakarta,31,Islam,Java,Senior High School,Private Employees,Lower Class,57,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree
+2,Jakarta,36,Islam,Java,Bachelor degree,Private Employees,Lower Class,43,Strongly Agree,Agree,Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree
+3,Jakarta,24,Islam,Java,Senior High School,Private Employees,Middle Class,38,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+4,Jakarta,63,Islam,Other,Senior High School,Private Employees,Lower Class,61,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Agree
+5,Jakarta,43,Protestant,Batak,Primary School,Government Employees,Lower Class,58,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Disagree,Agree
+6,Jakarta,47,Protestant,Java,Senior High School,Government Employees,Lower Class,34,Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Disagree,Agree
+7,Jakarta,28,Catholic,Java,Senior High School,Enterpreneur,Upper Class,26,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Agree
+8,Jakarta,48,Islam,Java,Senior High School,Enterpreneur,Lower Class,57,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree
+9,Jakarta,36,Islam,Java,Senior High School,Enterpreneur,Upper Class,24,Strongly Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree
+10,Jakarta,39,Protestant,Other,Bachelor degree,Private Employees,Upper Class,27,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly Agree,Agree,Agree
+11,Jakarta,53,Catholic,Batak,Master and doctoral degree,Private Employees,Lower Class,67,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree
+12,Jakarta,57,Islam,Java,Primary School,Private Employees,Middle Class,36,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree
+13,Jakarta,46,Islam,Java,Bachelor degree,Private Employees,Lower Class,42,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Agree,Strongly Agree
+14,Jakarta,53,Islam,Java,Bachelor degree,Private Employees,Lower Class,73,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Strongly Agree
+15,Jakarta,58,Islam,Java,Bachelor degree,Private Employees,Middle Class,41,Agree,Strongly Agree,Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree
+16,Jakarta,62,Catholic,Java,Senior High School,Private Employees,Middle Class,33,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree
+17,Jakarta,41,Islam,Bugis,Bachelor degree,Teacher?/Lecturer,Upper Class,19,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree
+18,Jakarta,61,Islam,Java,Primary School,Teacher?/Lecturer,Lower Class,69,Strongly Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree
+19,Jakarta,23,Islam,Java,Bachelor degree,Government Employees,Upper Class,23,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree
+20,Jakarta,27,Protestant,Batak,Senior High School,Government Employees,Upper Class,25,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree
+21,Jakarta,38,Protestant,Batak,Master and doctoral degree,Government Employees,Lower Class,57,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Agree,Disagree
+22,Jakarta,24,Protestant,Java,Bachelor degree,Government Employees,Upper Class,43,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+23,Jakarta,33,Islam,Batak,Senior High School,Government Employees,Lower Class,38,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+24,Jakarta,27,Islam,Other,Master and doctoral degree,Police Officer?/Army,Lower Class,61,Strongly Agree,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree
+25,Jakarta,54,Islam,Other,Senior High School,Police Officer?/Army,Lower Class,58,Strongly Agree,Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+26,Jakarta,30,Protestant,Java,Senior High School,Private Employees,Middle Class,34,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Disagree
+27,Jakarta,61,Catholic,Sunda,Bachelor degree,Private Employees,Upper Class,26,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+28,Jakarta,24,Islam,Java,Bachelor degree,Government Employees,Lower Class,57,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Neither agree nor disagree,Agree
+29,Jakarta,33,Islam,Java,Bachelor degree,Police Officer?/Army,Upper Class,24,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+30,Jakarta,31,Protestant,Java,Diploma,Private Employees,Upper Class,27,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree
+31,Jakarta,25,Protestant,Java,Diploma,Private Employees,Lower Class,67,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+32,Jakarta,34,Islam,Java,Bachelor degree,Private Employees,Middle Class,36,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+33,Jakarta,28,Islam,Java,Master and doctoral degree,Enterpreneur,Upper Class,42,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+34,Jakarta,35,Islam,Java,Bachelor degree,Enterpreneur,Lower Class,73,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+35,Jakarta,63,Islam,Java,Bachelor degree,Enterpreneur,Middle Class,41,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+36,Jakarta,41,Islam,Sunda,Bachelor degree,Enterpreneur,Middle Class,33,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+37,Jakarta,30,Islam,Java,Bachelor degree,Government Employees,Upper Class,19,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree
+38,Jakarta,27,Catholic,Batak,Senior High School,Government Employees,Lower Class,69,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+39,Jakarta,32,Catholic,Batak,Diploma,Government Employees,Upper Class,23,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Neither agree nor disagree,Disagree
+40,Jakarta,29,Islam,Java,Bachelor degree,Government Employees,Upper Class,25,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+41,Jakarta,31,Islam,Java,Bachelor degree,Government Employees,Lower Class,58,Agree,Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+42,Jakarta,27,Islam,Sunda,Bachelor degree,Private Employees,Middle Class,44,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+43,Jakarta,37,Islam,Java,Bachelor degree,Private Employees,Middle Class,35,Agree,Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+44,Jakarta,36,Islam,Java,Senior High School,Private Employees,Lower Class,59,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+45,Jakarta,38,Islam,Java,Diploma,Private Employees,Lower Class,65,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+46,Jakarta,63,Protestant,Bugis,Senior High School,Enterpreneur,Middle Class,41,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+47,Jakarta,40,Protestant,Other,Senior High School,Enterpreneur,Upper Class,26,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+48,Jakarta,30,Islam,Java,Bachelor degree,Enterpreneur,Lower Class,76,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+49,Jakarta,33,Islam,Java,Master and doctoral degree,Enterpreneur,Upper Class,22,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+50,Jakarta,29,Islam,Java,Bachelor degree,Enterpreneur,Upper Class,18,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Agree,Agree
+51,Jakarta,27,Islam,Java,Master and doctoral degree,Enterpreneur,Lower Class,57,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Disagree
+52,Jakarta,31,Islam,Java,Diploma,Government Employees,Middle Class,43,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+53,Jakarta,24,Islam,Sunda,Bachelor degree,Government Employees,Middle Class,38,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+54,Jakarta,40,Catholic,Java,Master and doctoral degree,Government Employees,Lower Class,61,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+55,Jakarta,65,Catholic,Other,Bachelor degree,Government Employees,Middle Class,58,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+56,Jakarta,31,Protestant,Java,Bachelor degree,Government Employees,Middle Class,34,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+57,Jakarta,25,Protestant,Other,Bachelor degree,Government Employees,Upper Class,26,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+58,Jakarta,41,Islam,Java,Bachelor degree,Government Employees,Lower Class,57,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree
+59,Jakarta,65,Islam,Java,Senior High School,Enterpreneur,Upper Class,24,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+60,Jakarta,38,Islam,Java,Diploma,Enterpreneur,Upper Class,27,Agree,Strongly Agree,Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+61,Jakarta,47,Islam,Java,Diploma,Enterpreneur,Lower Class,67,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+62,Jakarta,28,Islam,Java,Bachelor degree,Enterpreneur,Middle Class,36,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+63,Jakarta,48,Islam,Sunda,Master and doctoral degree,Enterpreneur,Middle Class,42,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+64,Jakarta,27,Islam,Java,Bachelor degree,Enterpreneur,Lower Class,73,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+65,Jakarta,39,Islam,Java,Bachelor degree,Independent Worker,Lower Class,41,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+66,Jakarta,53,Islam,Bugis,Diploma,Independent Worker,Middle Class,33,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Disagree
+67,Jakarta,57,Islam,Java,Diploma,Independent Worker,Upper Class,19,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+68,Jakarta,46,Islam,Java,Diploma,Independent Worker,Lower Class,69,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+69,Jakarta,53,Islam,Java,Master and doctoral degree,Independent Worker,Upper Class,23,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+70,Jakarta,58,Islam,Java,Senior High School,Independent Worker,Upper Class,25,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+71,Jakarta,23,Islam,Madura,Master and doctoral degree,Private Employees,Lower Class,57,Disagree,Strongly Agree,Disagree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree
+72,Jakarta,46,Protestant,Other,Senior High School,Private Employees,Middle Class,43,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+73,Jakarta,34,Protestant,Other,Senior High School,Private Employees,Middle Class,38,Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Agree,Disagree
+74,Jakarta,30,Protestant,Sunda,Bachelor degree,Private Employees,Lower Class,61,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+75,Jakarta,26,Islam,Java,Bachelor degree,Government Employees,Middle Class,58,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+76,Jakarta,43,Islam,Java,Bachelor degree,Government Employees,Middle Class,34,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+77,Jakarta,55,Protestant,Java,Bachelor degree,Enterpreneur,Upper Class,26,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+78,Jakarta,37,Islam,Madura,Master and doctoral degree,Enterpreneur,Lower Class,57,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+79,Jakarta,30,Islam,Java,Bachelor degree,Enterpreneur,Upper Class,24,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+80,Jakarta,35,Catholic,Java,Master and doctoral degree,Private Employees,Upper Class,27,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree
+81,Jakarta,29,Islam,Java,Bachelor degree,Private Employees,Middle Class,67,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+82,Jakarta,41,Islam,Sunda,Bachelor degree,Private Employees,Middle Class,36,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+83,Jakarta,31,Protestant,Sunda,Bachelor degree,Private Employees,Middle Class,42,Agree,Agree,Agree,Agree,Disagree,Neither agree nor disagree,Disagree
+84,Jakarta,36,Islam,Minang,Bachelor degree,Private Employees,Lower Class,73,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+85,Jakarta,52,Protestant,Other,Senior High School,Private Employees,Lower Class,41,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+86,Jakarta,64,Protestant,Java,Primary School,Private Employees,Middle Class,33,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+87,Jakarta,35,Islam,Java,Junior High School,Teacher?/Lecturer,Upper Class,19,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Neither agree nor disagree,Agree
+88,Jakarta,62,Islam,Java,Master and doctoral degree,Teacher?/Lecturer,Lower Class,69,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Agree,Disagree
+89,Jakarta,36,Protestant,Java,Bachelor degree,Government Employees,Lower Class,23,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree
+90,Jakarta,52,Islam,Java,Junior High School,Government Employees,Middle Class,25,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+91,Jakarta,55,Islam,Sunda,Bachelor degree,Government Employees,Middle Class,58,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+92,Jakarta,34,Islam,Java,Bachelor degree,Government Employees,Upper Class,44,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Strongly Agree,Disagree,Strongly Agree
+93,Jakarta,30,Islam,Java,Senior High School,Government Employees,Lower Class,35,Agree,Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+94,Jakarta,61,Islam,Other,Primary School,Police Officer?/Army,Lower Class,59,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+95,Jakarta,23,Islam,Minang,Senior High School,Police Officer?/Army,Middle Class,65,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree
+96,Jakarta,39,Islam,Minang,Senior High School,Private Employees,Middle Class,41,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+97,Jakarta,31,Islam,Sunda,Diploma,Private Employees,Upper Class,26,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+98,Jakarta,28,Islam,Sunda,Diploma,Government Employees,Upper Class,76,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+99,Jakarta,45,Catholic,Other,Bachelor degree,Police Officer?/Army,Upper Class,22,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+100,Jakarta,64,Islam,Other,Master and doctoral degree,Private Employees,Middle Class,18,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+101,Jakarta,31,Islam,Java,Bachelor degree,Private Employees,Lower Class,57,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Neither agree nor disagree,Disagree
+102,Jakarta,29,Islam,Java,Bachelor degree,Private Employees,Middle Class,43,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+103,Jakarta,46,Islam,Java,Master and doctoral degree,Enterpreneur,Middle Class,38,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+104,Jakarta,64,Islam,Other,Bachelor degree,Enterpreneur,Lower Class,61,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+105,Jakarta,54,Protestant,Java,Bachelor degree,Enterpreneur,Lower Class,58,Agree,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree
+106,Jakarta,47,Islam,Minang,Bachelor degree,Enterpreneur,Middle Class,34,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+107,Jakarta,28,Islam,Java,Bachelor degree,Government Employees,Upper Class,26,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+108,Jakarta,48,Islam,Java,Senior High School,Government Employees,Lower Class,57,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+109,Jakarta,25,Islam,Java,Diploma,Government Employees,Upper Class,24,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+110,Jakarta,39,Catholic,Batak,Diploma,Government Employees,Upper Class,27,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+111,Jakarta,53,Protestant,Java,Diploma,Government Employees,Lower Class,67,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+112,Jakarta,57,Protestant,Java,Diploma,Private Employees,Middle Class,36,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+113,Jakarta,46,Islam,Java,Diploma,Private Employees,Middle Class,42,Disagree,Agree,Disagree,Agree,Agree,Neither agree nor disagree,Agree
+114,Jakarta,53,Islam,Java,Bachelor degree,Private Employees,Lower Class,73,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+115,Jakarta,58,Islam,Java,Diploma,Private Employees,Middle Class,41,Agree,Agree,Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+116,Jakarta,62,Islam,Java,Master and doctoral degree,Enterpreneur,Middle Class,33,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree
+117,Jakarta,33,Protestant,Java,Bachelor degree,Enterpreneur,Upper Class,19,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Disagree
+118,Jakarta,37,Protestant,Java,Diploma,Enterpreneur,Lower Class,69,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+119,Jakarta,32,Protestant,Java,Diploma,Enterpreneur,Upper Class,23,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+120,Jakarta,35,Protestant,Java,Senior High School,Enterpreneur,Upper Class,25,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+121,Jakarta,31,Catholic,Other,Diploma,Enterpreneur,Lower Class,57,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+122,Jakarta,27,Islam,Minang,Senior High School,Government Employees,Middle Class,43,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Neither agree nor disagree,Disagree
+123,Jakarta,49,Islam,Minang,Senior High School,Government Employees,Middle Class,38,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+124,Jakarta,55,Islam,Sunda,Diploma,Government Employees,Lower Class,61,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+125,Jakarta,54,Islam,Java,Diploma,Government Employees,Lower Class,58,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+126,Jakarta,47,Islam,Java,Bachelor degree,Government Employees,Middle Class,34,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+127,Jakarta,28,Islam,Java,Diploma,Government Employees,Upper Class,26,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+128,Jakarta,48,Catholic,Madura,Diploma,Government Employees,Lower Class,57,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+129,Jakarta,26,Catholic,Java,Bachelor degree,Enterpreneur,Upper Class,24,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree
+130,Jakarta,39,Protestant,Java,Master and doctoral degree,Enterpreneur,Upper Class,27,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+131,Jakarta,53,Islam,Java,Bachelor degree,Enterpreneur,Lower Class,67,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+132,Jakarta,57,Islam,Sunda,Bachelor degree,Enterpreneur,Middle Class,36,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree
+133,Jakarta,46,Islam,Sunda,Bachelor degree,Enterpreneur,Middle Class,42,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+134,Jakarta,53,Islam,Minang,Bachelor degree,Enterpreneur,Lower Class,73,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree
+135,Jakarta,58,Islam,Minang,Senior High School,Independent Worker,Middle Class,41,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+136,Jakarta,62,Islam,Java,Diploma,Independent Worker,Middle Class,33,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+137,Jakarta,49,Protestant,Java,Master and doctoral degree,Independent Worker,Upper Class,19,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+138,Jakarta,38,Protestant,Java,Bachelor degree,Independent Worker,Lower Class,69,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+139,Jakarta,25,Protestant,Java,Bachelor degree,Independent Worker,Upper Class,23,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+140,Jakarta,33,Islam,Java,Master and doctoral degree,Independent Worker,Upper Class,25,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree
+141,Jakarta,62,Islam,Sunda,Bachelor degree,Private Employees,Lower Class,58,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+142,Jakarta,25,Islam,Java,Master and doctoral degree,Private Employees,Middle Class,44,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+143,Jakarta,61,Islam,Java,Master and doctoral degree,Private Employees,Middle Class,35,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+144,Jakarta,32,Islam,Minang,Bachelor degree,Private Employees,Lower Class,59,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+145,Jakarta,42,Islam,Minang,Bachelor degree,Government Employees,Lower Class,65,Agree,Agree,Agree,Agree,Disagree,Agree,Disagree
+146,Jakarta,25,Protestant,Other,Senior High School,Government Employees,Middle Class,41,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+147,Jakarta,36,Islam,Java,Diploma,Enterpreneur,Upper Class,26,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+148,Jakarta,50,Islam,Sunda,Senior High School,Enterpreneur,Lower Class,76,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+149,Jakarta,55,Islam,Other,Senior High School,Enterpreneur,Upper Class,22,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Strongly Agree,Agree
+150,Jakarta,54,Hindu,Other,Diploma,Private Employees,Upper Class,18,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Disagree
+151,Jakarta,62,Protestant,Java,Diploma,Private Employees,Lower Class,57,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Strongly Agree,Agree
+152,Jakarta,26,Protestant,Java,Bachelor degree,Private Employees,Middle Class,43,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+153,Jakarta,40,Protestant,Java,Diploma,Private Employees,Middle Class,38,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+154,Jakarta,33,Islam,Minang,Diploma,Private Employees,Lower Class,61,Strongly Agree,Disagree,Strongly Agree,Disagree,Disagree,Neither agree nor disagree,Disagree
+155,Jakarta,33,Islam,Java,Bachelor degree,Private Employees,Middle Class,58,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+156,Jakarta,51,Islam,Minang,Master and doctoral degree,Private Employees,Middle Class,34,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+157,Jakarta,40,Islam,Java,Bachelor degree,Teacher?/Lecturer,Upper Class,26,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree
+158,Jakarta,61,Islam,Java,Bachelor degree,Teacher?/Lecturer,Lower Class,57,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+159,Jakarta,27,Protestant,Java,Bachelor degree,Government Employees,Upper Class,24,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Agree,Disagree
+160,Jakarta,29,Protestant,Batak,Bachelor degree,Government Employees,Upper Class,27,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Strongly Agree,Agree
+161,Jakarta,27,Islam,Java,Senior High School,Government Employees,Lower Class,67,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+162,Jakarta,55,Protestant,Java,Diploma,Government Employees,Middle Class,36,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+163,Jakarta,60,Islam,Java,Bachelor degree,Government Employees,Middle Class,42,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+164,Jakarta,26,Islam,Java,Master and doctoral degree,Police Officer?/Army,Lower Class,73,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+165,Jakarta,30,Islam,Java,Bachelor degree,Police Officer?/Army,Lower Class,41,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+166,Jakarta,41,Islam,Java,Master and doctoral degree,Private Employees,Middle Class,33,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+167,Jakarta,36,Islam,Java,Bachelor degree,Private Employees,Upper Class,19,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+168,Jakarta,52,Islam,Java,Diploma,Government Employees,Lower Class,69,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Disagree,Agree,Disagree
+169,Jakarta,63,Islam,Java,Senior High School,Police Officer?/Army,Upper Class,23,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Agree
+170,Jakarta,28,Islam,Java,Diploma,Private Employees,Upper Class,25,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+171,Jakarta,30,Islam,Java,Senior High School,Private Employees,Lower Class,57,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+172,Jakarta,61,Islam,Minang,Senior High School,Private Employees,Middle Class,43,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Strongly Agree
+173,Jakarta,26,Catholic,Batak,Master and doctoral degree,Enterpreneur,Middle Class,38,Agree,Agree,Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+174,Jakarta,27,Catholic,Batak,Master and doctoral degree,Enterpreneur,Lower Class,61,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+175,Bandung,31,Protestant,Java,Bachelor degree,Enterpreneur,Middle Class,58,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+176,Bandung,36,Islam,Minang,Diploma,Enterpreneur,Middle Class,34,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+177,Bandung,56,Islam,Sunda,Master and doctoral degree,Government Employees,Upper Class,26,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+178,Bandung,63,Islam,Sunda,Bachelor degree,Government Employees,Lower Class,57,Strongly Disagree,Agree,Agree,Agree,Agree,Strongly Agree,Agree
+179,Bandung,54,Islam,Sunda,Master and doctoral degree,Government Employees,Upper Class,24,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+180,Bandung,36,Islam,Sunda,Bachelor degree,Government Employees,Upper Class,27,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+181,Bandung,52,Islam,Sunda,Bachelor degree,Government Employees,Middle Class,67,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+182,Bandung,63,Catholic,Java,Bachelor degree,Private Employees,Middle Class,36,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+183,Bandung,54,Catholic,Sunda,Bachelor degree,Private Employees,Middle Class,42,Agree,Strongly Agree,Agree,Agree,Disagree,Agree,Disagree
+184,Bandung,30,Catholic,Batak,Senior High School,Private Employees,Lower Class,73,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+185,Bandung,43,Islam,Sunda,Primary School,Private Employees,Lower Class,41,Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree
+186,Bandung,29,Islam,Sunda,Diploma,Enterpreneur,Middle Class,33,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Strongly Agree,Agree
+187,Bandung,36,Islam,Java,Bachelor degree,Enterpreneur,Upper Class,19,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+188,Bandung,33,Islam,Minang,Junior High School,Enterpreneur,Lower Class,69,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+189,Bandung,60,Islam,Bugis,Primary School,Enterpreneur,Lower Class,23,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+190,Bandung,54,Islam,Java,Bachelor degree,Enterpreneur,Middle Class,25,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree
+191,Bandung,30,Protestant,Batak,Bachelor degree,Enterpreneur,Middle Class,58,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+192,Bandung,45,Catholic,Batak,Senior High School,Government Employees,Upper Class,44,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree
+193,Bandung,32,Catholic,Other,Diploma,Government Employees,Lower Class,35,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+194,Bandung,25,Islam,Sunda,Senior High School,Government Employees,Lower Class,59,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+195,Bandung,31,Islam,Sunda,Bachelor degree,Government Employees,Middle Class,65,Agree,Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+196,Bandung,27,Islam,Java,Master and doctoral degree,Government Employees,Middle Class,41,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+197,Bandung,52,Islam,Java,Primary School,Government Employees,Upper Class,26,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+198,Bandung,60,Islam,Sunda,Bachelor degree,Government Employees,Upper Class,76,Agree,Neither agree nor disagree,Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+199,Bandung,25,Islam,Sunda,Junior High School,Enterpreneur,Upper Class,22,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly Agree,Agree,Neither agree nor disagree,Agree
+200,Bandung,31,Catholic,Java,Diploma,Enterpreneur,Middle Class,18,Agree,Neither agree nor disagree,Agree,Strongly Agree,Agree,Agree,Agree
+201,Bandung,36,Islam,Java,Bachelor degree,Enterpreneur,Lower Class,57,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+202,Bandung,34,Islam,Java,Master and doctoral degree,Enterpreneur,Middle Class,43,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+203,Bandung,64,Islam,Sunda,Bachelor degree,Enterpreneur,Middle Class,38,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree
+204,Bandung,24,Hindu,Other,Bachelor degree,Enterpreneur,Lower Class,61,Agree,Strongly Agree,Agree,Agree,Agree,Agree,Agree
+205,Bandung,47,Protestant,Other,Bachelor degree,Independent Worker,Lower Class,58,Agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree
+206,Bandung,28,Catholic,Sunda,Bachelor degree,Independent Worker,Middle Class,34,Agree,Strongly Agree,Agree,Disagree,Agree,Agree,Agree
+207,Bandung,48,Catholic,Sunda,Senior High School,Independent Worker,Upper Class,26,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree
+208,Bandung,26,Islam,Sunda,Diploma,Independent Worker,Lower Class,57,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+209,Bandung,39,Islam,Minang,Master and doctoral degree,Independent Worker,Upper Class,24,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+210,Bandung,53,Islam,Sunda,Bachelor degree,Independent Worker,Upper Class,27,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+211,Bandung,57,Islam,Sunda,Bachelor degree,Private Employees,Lower Class,67,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Neither agree nor disagree,Agree
+212,Bandung,46,Islam,Java,Senior High School,Private Employees,Middle Class,36,Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Agree,Disagree
+213,Bandung,53,Protestant,Sunda,Master and doctoral degree,Private Employees,Middle Class,42,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Neither agree nor disagree,Agree
+214,Bandung,58,Protestant,Java,Senior High School,Private Employees,Lower Class,73,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Strongly Agree,Agree
+215,Bandung,50,Catholic,Sunda,Senior High School,Government Employees,Middle Class,41,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+216,Bandung,54,Catholic,Batak,Diploma,Government Employees,Middle Class,33,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Strongly Agree
+217,Bandung,49,Islam,Sunda,Diploma,Enterpreneur,Upper Class,19,Agree,Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree
+218,Bandung,23,Islam,Sunda,Bachelor degree,Enterpreneur,Lower Class,69,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Strongly Agree
+219,Bandung,41,Islam,Other,Diploma,Enterpreneur,Upper Class,23,Agree,Disagree,Agree,Disagree,Agree,Agree,Agree
+220,Bandung,62,Islam,Java,Primary School,Private Employees,Upper Class,25,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+221,Bandung,54,Islam,Java,Bachelor degree,Private Employees,Lower Class,57,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree
+222,Bandung,50,Islam,Sunda,Master and doctoral degree,Private Employees,Middle Class,43,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree
+223,Bandung,34,Islam,Sunda,Bachelor degree,Private Employees,Middle Class,38,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+224,Bandung,39,Islam,Sunda,Bachelor degree,Private Employees,Lower Class,61,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+225,Bandung,31,Catholic,Sunda,Bachelor degree,Private Employees,Lower Class,58,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+226,Bandung,27,Islam,Other,Bachelor degree,Private Employees,Middle Class,34,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+227,Bandung,37,Islam,Java,Senior High School,Teacher?/Lecturer,Upper Class,26,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+228,Bandung,56,Islam,Minang,Bachelor degree,Teacher?/Lecturer,Lower Class,57,Disagree,Strongly Agree,Disagree,Strongly Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree
+229,Bandung,54,Islam,Minang,Bachelor degree,Government Employees,Upper Class,24,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+230,Bandung,62,Islam,Minang,Junior High School,Government Employees,Upper Class,27,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+231,Bandung,56,Islam,Sunda,Master and doctoral degree,Government Employees,Lower Class,67,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+232,Bandung,51,Catholic,Sunda,Senior High School,Government Employees,Middle Class,36,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+233,Bandung,37,Catholic,Batak,Diploma,Government Employees,Middle Class,42,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Agree
+234,Bandung,42,Catholic,Other,Senior High School,Police Officer?/Army,Lower Class,73,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+235,Bandung,49,Islam,Sunda,Senior High School,Police Officer?/Army,Middle Class,41,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Agree
+236,Bandung,54,Islam,Sunda,Diploma,Private Employees,Middle Class,33,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+237,Bandung,33,Islam,Other,Diploma,Private Employees,Upper Class,19,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+238,Bandung,27,Islam,Sunda,Bachelor degree,Government Employees,Lower Class,69,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Agree,Strongly Agree
+239,Bandung,35,Islam,Sunda,Master and doctoral degree,Police Officer?/Army,Upper Class,23,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+240,Bandung,36,Islam,Sunda,Bachelor degree,Private Employees,Upper Class,25,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+241,Bandung,26,Protestant,Java,Bachelor degree,Private Employees,Lower Class,58,Agree,Disagree,Agree,Disagree,Agree,Agree,Agree
+242,Bandung,63,Protestant,Java,Master and doctoral degree,Private Employees,Middle Class,44,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+243,Bandung,26,Protestant,Java,Bachelor degree,Enterpreneur,Middle Class,35,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree
+244,Bandung,30,Islam,Sunda,Bachelor degree,Enterpreneur,Lower Class,59,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree
+245,Bandung,34,Islam,Sunda,Bachelor degree,Enterpreneur,Lower Class,65,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+246,Bandung,32,Islam,Other,Bachelor degree,Enterpreneur,Middle Class,41,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+247,Bandung,33,Islam,Other,Senior High School,Government Employees,Upper Class,26,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+248,Bandung,31,Islam,Other,Diploma,Government Employees,Lower Class,76,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+249,Bandung,32,Islam,Other,Bachelor degree,Government Employees,Upper Class,22,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Disagree,Strongly Agree,Disagree
+250,Bandung,31,Budha,Other,Bachelor degree,Government Employees,Upper Class,18,Agree,Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+251,Bandung,27,Islam,Sunda,Master and doctoral degree,Government Employees,Lower Class,57,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+252,Bandung,28,Islam,Sunda,Senior High School,Private Employees,Middle Class,43,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree
+253,Bandung,56,Islam,Sunda,Master and doctoral degree,Private Employees,Middle Class,38,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+254,Bandung,55,Hindu,Bali,Senior High School,Private Employees,Lower Class,61,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+255,Bandung,47,Protestant,Java,Senior High School,Private Employees,Middle Class,58,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+256,Bandung,28,Catholic,Sunda,Diploma,Enterpreneur,Middle Class,34,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+257,Bandung,48,Catholic,Other,Diploma,Enterpreneur,Upper Class,26,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+258,Bandung,29,Islam,Minang,Bachelor degree,Enterpreneur,Lower Class,57,Disagree,Strongly Agree,Disagree,Disagree,Disagree,Disagree,Disagree
+259,Bandung,39,Islam,Sunda,Diploma,Enterpreneur,Upper Class,24,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+260,Bandung,53,Islam,Sunda,Diploma,Enterpreneur,Upper Class,27,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+261,Bandung,57,Islam,Minang,Bachelor degree,Enterpreneur,Lower Class,67,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+262,Bandung,46,Islam,Minang,Master and doctoral degree,Government Employees,Middle Class,36,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+263,Bandung,53,Protestant,Batak,Bachelor degree,Government Employees,Middle Class,42,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+264,Bandung,58,Protestant,Batak,Bachelor degree,Government Employees,Lower Class,73,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+265,Bandung,45,Catholic,Bugis,Bachelor degree,Government Employees,Lower Class,41,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Agree,Agree
+266,Bandung,54,Catholic,Other,Bachelor degree,Government Employees,Middle Class,33,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+267,Bandung,35,Islam,Sunda,Senior High School,Government Employees,Upper Class,19,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+268,Bandung,29,Islam,Sunda,Diploma,Government Employees,Lower Class,69,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree
+269,Bandung,29,Islam,Java,Diploma,Enterpreneur,Upper Class,23,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+270,Bandung,62,Islam,Sunda,Master and doctoral degree,Enterpreneur,Upper Class,25,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+271,Bandung,54,Islam,Sunda,Master and doctoral degree,Enterpreneur,Lower Class,57,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+272,Bandung,37,Islam,Sunda,Senior High School,Enterpreneur,Middle Class,43,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+273,Bandung,39,Islam,Minang,Bachelor degree,Enterpreneur,Middle Class,38,Agree,Agree,Agree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree
+274,Bandung,28,Islam,Other,Senior High School,Enterpreneur,Lower Class,61,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+275,Bandung,31,Protestant,Other,Senior High School,Independent Worker,Middle Class,58,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+276,Bandung,28,Islam,Sunda,Bachelor degree,Independent Worker,Middle Class,34,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree
+277,Bandung,33,Islam,Minang,Master and doctoral degree,Independent Worker,Upper Class,26,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+278,Bandung,64,Islam,Sunda,Bachelor degree,Independent Worker,Lower Class,57,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Agree
+279,Bandung,54,Islam,Minang,Diploma,Independent Worker,Upper Class,24,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+280,Bandung,62,Islam,Sunda,Diploma,Independent Worker,Upper Class,27,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+281,Bandung,50,Islam,Sunda,Bachelor degree,Private Employees,Middle Class,67,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+282,Bandung,38,Catholic,Minang,Master and doctoral degree,Private Employees,Middle Class,36,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+283,Bandung,33,Catholic,Java,Bachelor degree,Private Employees,Middle Class,42,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+284,Bandung,27,Catholic,Java,Bachelor degree,Private Employees,Lower Class,73,Strongly Agree,Agree,Agree,Disagree,Agree,Agree,Agree
+285,Bandung,43,Islam,Sunda,Bachelor degree,Government Employees,Lower Class,41,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+286,Bandung,49,Islam,Sunda,Bachelor degree,Government Employees,Middle Class,33,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree
+287,Bandung,40,Islam,Sunda,Senior High School,Enterpreneur,Upper Class,19,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Agree
+288,Bandung,35,Islam,Minang,Diploma,Enterpreneur,Lower Class,69,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+289,Bandung,29,Islam,Minang,Diploma,Enterpreneur,Lower Class,23,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+290,Bandung,57,Islam,Minang,Bachelor degree,Private Employees,Middle Class,25,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+291,Bandung,34,Protestant,Batak,Bachelor degree,Private Employees,Middle Class,58,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+292,Bandung,28,Protestant,Other,Master and doctoral degree,Private Employees,Upper Class,44,Strongly Agree,Strongly Agree,Agree,Agree,Disagree,Neither agree nor disagree,Disagree
+293,Bandung,34,Catholic,Sunda,Bachelor degree,Private Employees,Lower Class,35,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+294,Bandung,55,Islam,Other,Diploma,Private Employees,Lower Class,59,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+295,Bandung,46,Islam,Java,Diploma,Private Employees,Middle Class,65,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree
+296,Bandung,30,Islam,Madura,Master and doctoral degree,Private Employees,Middle Class,41,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+297,Bandung,41,Islam,Java,Bachelor degree,Teacher?/Lecturer,Upper Class,26,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+298,Bandung,26,Islam,Minang,Bachelor degree,Teacher?/Lecturer,Upper Class,76,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+299,Bandung,29,Islam,Minang,Senior High School,Government Employees,Upper Class,22,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree
+300,Bandung,31,Catholic,Other,Bachelor degree,Government Employees,Middle Class,18,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+301,Bandung,36,Islam,Minang,Senior High School,Government Employees,Lower Class,57,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree
+302,Bandung,52,Islam,Minang,Senior High School,Government Employees,Middle Class,43,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+303,Bandung,60,Islam,Sunda,Diploma,Government Employees,Middle Class,38,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+304,Bandung,54,Hindu,Bali,Diploma,Police Officer?/Army,Lower Class,61,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly Agree,Agree,Strongly Agree
+305,Bandung,41,Protestant,Bugis,Bachelor degree,Police Officer?/Army,Lower Class,58,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+306,Bandung,60,Protestant,Batak,Senior High School,Private Employees,Middle Class,34,Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree
+307,Bandung,27,Catholic,Batak,Diploma,Private Employees,Upper Class,26,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+308,Bandung,52,Islam,Sunda,Diploma,Government Employees,Lower Class,57,Agree,Strongly Agree,Agree,Agree,Disagree,Agree,Disagree
+309,Bandung,56,Islam,Minang,Diploma,Police Officer?/Army,Upper Class,24,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Strongly Agree,Agree
+310,Bandung,45,Islam,Madura,Master and doctoral degree,Private Employees,Upper Class,27,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+311,Bandung,30,Islam,Sunda,Bachelor degree,Private Employees,Lower Class,67,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+312,Bandung,61,Islam,Sunda,Bachelor degree,Private Employees,Middle Class,36,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+313,Bandung,25,Catholic,Sunda,Diploma,Enterpreneur,Middle Class,42,Strongly Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+314,Bandung,25,Catholic,Sunda,Diploma,Enterpreneur,Lower Class,73,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+315,Bandung,26,Catholic,Java,Diploma,Enterpreneur,Middle Class,41,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree
+316,Bandung,36,Islam,Sunda,Diploma,Enterpreneur,Middle Class,33,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+317,Bandung,52,Islam,Minang,Diploma,Government Employees,Upper Class,19,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+318,Bandung,64,Islam,Sunda,Senior High School,Government Employees,Lower Class,69,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Agree,Agree
+319,Bandung,54,Islam,Sunda,Diploma,Government Employees,Upper Class,23,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+320,Bandung,40,Islam,Minang,Senior High School,Government Employees,Upper Class,25,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+321,Bandung,60,Islam,Minang,Senior High School,Government Employees,Lower Class,57,Agree,Agree,Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+322,Bandung,35,Catholic,Batak,Master and doctoral degree,Private Employees,Middle Class,43,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Strongly Agree
+323,Bandung,56,Catholic,Sunda,Bachelor degree,Private Employees,Middle Class,38,Agree,Disagree,Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree
+324,Bandung,49,Catholic,Sunda,Bachelor degree,Private Employees,Lower Class,61,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+325,Surabaya,38,Islam,Java,Senior High School,Private Employees,Lower Class,58,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree
+326,Surabaya,31,Islam,Madura,Diploma,Enterpreneur,Middle Class,34,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+327,Surabaya,36,Islam,Java,Diploma,Enterpreneur,Upper Class,26,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+328,Surabaya,52,Catholic,Sunda,Bachelor degree,Enterpreneur,Lower Class,57,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree
+329,Surabaya,59,Protestant,Madura,Bachelor degree,Enterpreneur,Upper Class,24,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Strongly Agree,Disagree,Strongly Agree
+330,Surabaya,43,Catholic,Sunda,Master and doctoral degree,Enterpreneur,Upper Class,27,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Disagree,Agree
+331,Surabaya,47,Catholic,Other,Bachelor degree,Enterpreneur,Lower Class,67,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree
+332,Surabaya,28,Islam,Madura,Bachelor degree,Government Employees,Middle Class,36,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+333,Surabaya,48,Islam,Madura,Master and doctoral degree,Government Employees,Middle Class,42,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Strongly Agree
+334,Surabaya,36,Islam,Madura,Bachelor degree,Government Employees,Lower Class,73,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+335,Surabaya,39,Islam,Madura,Master and doctoral degree,Government Employees,Middle Class,41,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+336,Surabaya,53,Islam,Madura,Master and doctoral degree,Government Employees,Middle Class,33,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree
+337,Surabaya,57,Protestant,Batak,Senior High School,Government Employees,Upper Class,19,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+338,Surabaya,46,Protestant,Batak,Bachelor degree,Government Employees,Lower Class,69,Agree,Strongly Agree,Agree,Disagree,Agree,Neither agree nor disagree,Agree
+339,Surabaya,53,Catholic,Batak,Senior High School,Enterpreneur,Upper Class,23,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+340,Surabaya,58,Catholic,Batak,Senior High School,Enterpreneur,Upper Class,25,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+341,Surabaya,62,Islam,Java,Diploma,Enterpreneur,Lower Class,58,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+342,Surabaya,54,Islam,Madura,Diploma,Enterpreneur,Middle Class,44,Strongly Agree,Strongly Agree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+343,Surabaya,43,Islam,Java,Bachelor degree,Enterpreneur,Middle Class,35,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+344,Surabaya,32,Islam,Madura,Senior High School,Enterpreneur,Lower Class,59,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Disagree,Strongly Agree
+345,Surabaya,42,Islam,Madura,Senior High School,Independent Worker,Lower Class,65,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+346,Surabaya,38,Islam,Madura,Diploma,Independent Worker,Middle Class,41,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+347,Surabaya,41,Islam,Madura,Diploma,Independent Worker,Upper Class,26,Strongly Agree,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree
+348,Surabaya,45,Islam,Madura,Bachelor degree,Independent Worker,Lower Class,76,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+349,Surabaya,32,Catholic,Other,Bachelor degree,Independent Worker,Upper Class,22,Strongly Agree,Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+350,Surabaya,26,Islam,Madura,Master and doctoral degree,Independent Worker,Upper Class,18,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+351,Surabaya,31,Islam,Madura,Bachelor degree,Private Employees,Lower Class,57,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Strongly Agree
+352,Surabaya,25,Islam,Madura,Master and doctoral degree,Private Employees,Middle Class,43,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Agree
+353,Surabaya,37,Islam,Java,Bachelor degree,Private Employees,Middle Class,38,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+354,Surabaya,63,Islam,Madura,Bachelor degree,Private Employees,Lower Class,61,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree
+355,Surabaya,40,Islam,Java,Bachelor degree,Government Employees,Middle Class,58,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Disagree,Agree
+356,Surabaya,37,Catholic,Java,Primary School,Government Employees,Middle Class,34,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+357,Surabaya,38,Catholic,Madura,Senior High School,Enterpreneur,Upper Class,26,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+358,Surabaya,61,Catholic,Madura,Diploma,Enterpreneur,Lower Class,57,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+359,Surabaya,32,Islam,Java,Bachelor degree,Enterpreneur,Upper Class,24,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+360,Surabaya,27,Islam,Java,Master and doctoral degree,Private Employees,Upper Class,27,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+361,Surabaya,62,Islam,Java,Primary School,Private Employees,Lower Class,67,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree
+362,Surabaya,37,Islam,Madura,Primary School,Private Employees,Middle Class,36,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+363,Surabaya,49,Islam,Madura,Bachelor degree,Private Employees,Middle Class,42,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+364,Surabaya,33,Islam,Java,Diploma,Private Employees,Lower Class,73,Agree,Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+365,Surabaya,42,Protestant,Batak,Diploma,Private Employees,Lower Class,41,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+366,Surabaya,30,Catholic,Madura,Bachelor degree,Private Employees,Middle Class,33,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+367,Surabaya,50,Catholic,Batak,Bachelor degree,Teacher?/Lecturer,Upper Class,19,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+368,Surabaya,35,Islam,Java,Bachelor degree,Teacher?/Lecturer,Lower Class,69,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+369,Surabaya,42,Islam,Madura,Senior High School,Government Employees,Upper Class,23,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+370,Surabaya,28,Islam,Madura,Diploma,Government Employees,Upper Class,25,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+371,Surabaya,28,Islam,Madura,Bachelor degree,Government Employees,Lower Class,57,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+372,Surabaya,38,Islam,Madura,Master and doctoral degree,Government Employees,Middle Class,43,Agree,Strongly Agree,Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+373,Surabaya,63,Islam,Madura,Junior High School,Government Employees,Middle Class,38,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+374,Surabaya,35,Catholic,Bugis,Diploma,Police Officer?/Army,Lower Class,61,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+375,Surabaya,30,Islam,Java,Bachelor degree,Police Officer?/Army,Middle Class,58,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+376,Surabaya,61,Islam,Sunda,Bachelor degree,Private Employees,Middle Class,34,Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree
+377,Surabaya,30,Islam,Java,Master and doctoral degree,Private Employees,Upper Class,26,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+378,Surabaya,45,Hindu,Bali,Master and doctoral degree,Government Employees,Lower Class,57,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+379,Surabaya,27,Protestant,Java,Bachelor degree,Police Officer?/Army,Upper Class,24,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+380,Surabaya,26,Catholic,Minang,Bachelor degree,Private Employees,Upper Class,27,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree
+381,Surabaya,52,Catholic,Bugis,Senior High School,Private Employees,Middle Class,67,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Agree,Disagree
+382,Surabaya,59,Islam,Java,Junior High School,Private Employees,Middle Class,36,Strongly Agree,Disagree,Strongly Agree,Disagree,Agree,Neither agree nor disagree,Agree
+383,Surabaya,34,Islam,Java,Senior High School,Enterpreneur,Middle Class,42,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+384,Surabaya,35,Islam,Madura,Senior High School,Enterpreneur,Lower Class,73,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+385,Surabaya,60,Islam,Madura,Junior High School,Enterpreneur,Lower Class,41,Agree,Agree,Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+386,Surabaya,50,Islam,Java,Senior High School,Enterpreneur,Middle Class,33,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+387,Surabaya,40,Protestant,Batak,Master and doctoral degree,Government Employees,Upper Class,19,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+388,Surabaya,30,Protestant,Batak,Bachelor degree,Government Employees,Lower Class,69,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree
+389,Surabaya,61,Catholic,Bugis,Bachelor degree,Government Employees,Lower Class,23,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+390,Surabaya,32,Catholic,Bugis,Bachelor degree,Government Employees,Middle Class,25,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+391,Surabaya,43,Islam,Java,Diploma,Government Employees,Middle Class,58,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+392,Surabaya,29,Islam,Java,Bachelor degree,Private Employees,Upper Class,44,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+393,Surabaya,36,Islam,Madura,Master and doctoral degree,Private Employees,Lower Class,35,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+394,Surabaya,40,Islam,Madura,Master and doctoral degree,Private Employees,Lower Class,59,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+395,Surabaya,55,Islam,Sunda,Junior High School,Private Employees,Middle Class,65,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+396,Surabaya,33,Islam,Minang,Diploma,Enterpreneur,Middle Class,41,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+397,Surabaya,34,Islam,Madura,Diploma,Enterpreneur,Upper Class,26,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+398,Surabaya,28,Islam,Madura,Senior High School,Enterpreneur,Upper Class,76,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+399,Surabaya,30,Catholic,Batak,Diploma,Enterpreneur,Upper Class,22,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree
+400,Surabaya,29,Islam,Madura,Senior High School,Enterpreneur,Middle Class,18,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+401,Surabaya,25,Islam,Sunda,Senior High School,Enterpreneur,Lower Class,57,Strongly Agree,Agree,Agree,Agree,Disagree,Agree,Disagree
+402,Surabaya,36,Islam,Madura,Diploma,Government Employees,Middle Class,43,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+403,Surabaya,52,Islam,Madura,Diploma,Government Employees,Middle Class,38,Strongly Agree,Agree,Agree,Agree,Agree,Agree,Agree
+404,Surabaya,59,Islam,Java,Bachelor degree,Government Employees,Lower Class,61,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+405,Surabaya,54,Islam,Minang,Senior High School,Government Employees,Lower Class,58,Strongly Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Disagree,Agree
+406,Surabaya,47,Catholic,Java,Diploma,Government Employees,Middle Class,34,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+407,Surabaya,28,Catholic,Java,Diploma,Government Employees,Upper Class,26,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+408,Surabaya,48,Catholic,Batak,Master and doctoral degree,Government Employees,Lower Class,57,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+409,Surabaya,36,Islam,Madura,Bachelor degree,Enterpreneur,Upper Class,24,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+410,Surabaya,39,Islam,Madura,Bachelor degree,Enterpreneur,Upper Class,27,Agree,Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree
+411,Surabaya,53,Islam,Madura,Bachelor degree,Enterpreneur,Lower Class,67,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+412,Surabaya,57,Islam,Madura,Master and doctoral degree,Enterpreneur,Middle Class,36,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+413,Surabaya,46,Islam,Java,Bachelor degree,Enterpreneur,Middle Class,42,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+414,Surabaya,53,Islam,Java,Master and doctoral degree,Enterpreneur,Lower Class,73,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Disagree
+415,Surabaya,58,Catholic,Sunda,Bachelor degree,Independent Worker,Middle Class,41,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+416,Surabaya,62,Catholic,Batak,Master and doctoral degree,Independent Worker,Middle Class,33,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+417,Surabaya,26,Catholic,Batak,Senior High School,Independent Worker,Upper Class,19,Agree,Strongly Agree,Agree,Agree,Disagree,Agree,Disagree
+418,Surabaya,61,Islam,Madura,Bachelor degree,Independent Worker,Lower Class,69,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+419,Surabaya,25,Islam,Madura,Senior High School,Independent Worker,Upper Class,23,Agree,Strongly Agree,Agree,Agree,Disagree,Agree,Disagree
+420,Surabaya,32,Islam,Madura,Senior High School,Independent Worker,Upper Class,25,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+421,Surabaya,33,Islam,Madura,Bachelor degree,Private Employees,Lower Class,57,Strongly Agree,Disagree,Strongly Agree,Disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+422,Surabaya,25,Islam,Java,Master and doctoral degree,Private Employees,Middle Class,43,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+423,Surabaya,51,Islam,Madura,Bachelor degree,Private Employees,Middle Class,38,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree
+424,Surabaya,32,Other,Other,Senior High School,Private Employees,Lower Class,61,Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Agree,Disagree
+425,Surabaya,42,Islam,Sunda,Diploma,Government Employees,Lower Class,58,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+426,Surabaya,31,Islam,Madura,Diploma,Government Employees,Middle Class,34,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+427,Surabaya,29,Islam,Minang,Bachelor degree,Enterpreneur,Upper Class,26,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+428,Surabaya,41,Hindu,Bali,Master and doctoral degree,Enterpreneur,Lower Class,57,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree
+429,Surabaya,63,Protestant,Java,Bachelor degree,Enterpreneur,Upper Class,24,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+430,Surabaya,54,Catholic,Batak,Bachelor degree,Private Employees,Upper Class,27,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+431,Surabaya,51,Catholic,Batak,Diploma,Private Employees,Lower Class,67,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+432,Surabaya,24,Islam,Sunda,Bachelor degree,Private Employees,Middle Class,36,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+433,Surabaya,61,Islam,Minang,Master and doctoral degree,Private Employees,Middle Class,42,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+434,Surabaya,32,Islam,Madura,Bachelor degree,Private Employees,Lower Class,73,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree
+435,Surabaya,42,Islam,Madura,Diploma,Private Employees,Middle Class,41,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+436,Surabaya,50,Islam,Madura,Senior High School,Private Employees,Middle Class,33,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+437,Surabaya,56,Protestant,Batak,Diploma,Teacher?/Lecturer,Upper Class,19,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+438,Surabaya,26,Protestant,Batak,Senior High School,Teacher?/Lecturer,Lower Class,69,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+439,Surabaya,32,Protestant,Other,Senior High School,Government Employees,Upper Class,23,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Disagree
+440,Surabaya,40,Islam,Minang,Diploma,Government Employees,Upper Class,25,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+441,Surabaya,33,Islam,Madura,Bachelor degree,Government Employees,Lower Class,58,Strongly Agree,Disagree,Strongly Agree,Disagree,Strongly Agree,Agree,Strongly Agree
+442,Surabaya,26,Islam,Madura,Diploma,Government Employees,Middle Class,44,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+443,Makasar,42,Islam,Java,Master and doctoral degree,Government Employees,Middle Class,35,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+444,Makasar,31,Islam,Java,Bachelor degree,Police Officer?/Army,Lower Class,59,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+445,Makasar,27,Islam,Java,Bachelor degree,Police Officer?/Army,Lower Class,65,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree
+446,Makasar,52,Islam,Java,Diploma,Private Employees,Middle Class,41,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+447,Makasar,63,Islam,Minang,Primary School,Private Employees,Upper Class,26,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+448,Makasar,55,Islam,Minang,Master and doctoral degree,Government Employees,Lower Class,76,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+449,Makasar,49,Islam,Madura,Primary School,Police Officer?/Army,Upper Class,22,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+450,Makasar,54,Islam,Java,Master and doctoral degree,Private Employees,Upper Class,18,Agree,Strongly Agree,Agree,Agree,Agree,Agree,Agree
+451,Makasar,61,Islam,Java,Senior High School,Private Employees,Lower Class,57,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+452,Makasar,27,Protestant,Java,Diploma,Private Employees,Middle Class,43,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+453,Makasar,42,Protestant,Madura,Master and doctoral degree,Enterpreneur,Middle Class,38,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+454,Makasar,45,Catholic,Batak,Bachelor degree,Enterpreneur,Lower Class,61,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+455,Makasar,50,Islam,Batak,Junior High School,Enterpreneur,Middle Class,58,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+456,Makasar,34,Islam,Java,Primary School,Enterpreneur,Middle Class,34,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Agree
+457,Makasar,32,Islam,Java,Bachelor degree,Government Employees,Upper Class,26,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+458,Makasar,38,Catholic,Java,Diploma,Government Employees,Lower Class,57,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly Agree,Agree,Strongly Agree
+459,Makasar,31,Protestant,Java,Diploma,Government Employees,Upper Class,24,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+460,Makasar,36,Islam,Java,Master and doctoral degree,Government Employees,Upper Class,27,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+461,Makasar,52,Islam,Sunda,Master and doctoral degree,Government Employees,Lower Class,67,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+462,Makasar,59,Islam,Java,Primary School,Private Employees,Middle Class,36,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+463,Makasar,49,Catholic,Sunda,Bachelor degree,Private Employees,Middle Class,42,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+464,Makasar,43,Protestant,Java,Diploma,Private Employees,Lower Class,73,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Agree,Disagree
+465,Makasar,54,Islam,Sunda,Diploma,Private Employees,Lower Class,41,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+466,Makasar,61,Islam,Java,Diploma,Enterpreneur,Middle Class,33,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Disagree,Strongly Agree,Disagree
+467,Makasar,29,Islam,Java,Diploma,Enterpreneur,Upper Class,19,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+468,Makasar,42,Islam,Minang,Diploma,Enterpreneur,Lower Class,69,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+469,Makasar,62,Protestant,Batak,Senior High School,Enterpreneur,Upper Class,23,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+470,Makasar,46,Budha,Other,Diploma,Enterpreneur,Upper Class,25,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+471,Makasar,28,Islam,Java,Senior High School,Enterpreneur,Lower Class,57,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Disagree,Agree,Disagree
+472,Makasar,38,Islam,Java,Master and doctoral degree,Government Employees,Middle Class,43,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Agree
+473,Makasar,43,Islam,Java,Diploma,Government Employees,Middle Class,38,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+474,Makasar,51,Islam,Java,Diploma,Government Employees,Lower Class,61,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+475,Makasar,60,Islam,Minang,Bachelor degree,Government Employees,Middle Class,58,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+476,Makasar,30,Hindu,Java,Senior High School,Government Employees,Middle Class,34,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+477,Makasar,35,Protestant,Bugis,Diploma,Government Employees,Upper Class,26,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+478,Makasar,30,Protestant,Java,Diploma,Government Employees,Lower Class,57,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+479,Makasar,37,Protestant,Java,Senior High School,Enterpreneur,Upper Class,24,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+480,Makasar,31,Islam,Java,Senior High School,Enterpreneur,Upper Class,27,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+481,Makasar,36,Islam,Minang,Senior High School,Enterpreneur,Middle Class,67,Strongly Agree,Agree,Disagree,Strongly Agree,Agree,Disagree,Agree
+482,Makasar,43,Islam,Java,Bachelor degree,Enterpreneur,Middle Class,36,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+483,Makasar,63,Islam,Java,Diploma,Enterpreneur,Middle Class,42,Strongly Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+484,Makasar,45,Islam,Bugis,Diploma,Enterpreneur,Lower Class,73,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+485,Makasar,30,Protestant,Java,Diploma,Independent Worker,Lower Class,41,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+486,Makasar,37,Protestant,Bugis,Diploma,Independent Worker,Middle Class,33,Strongly Agree,Agree,Agree,Agree,Disagree,Agree,Disagree
+487,Makasar,39,Catholic,Bugis,Diploma,Independent Worker,Upper Class,19,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+488,Makasar,35,Catholic,Sunda,Senior High School,Independent Worker,Lower Class,69,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+489,Makasar,31,Islam,Java,Diploma,Independent Worker,Lower Class,23,Strongly Agree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree
+490,Makasar,36,Islam,Minang,Senior High School,Independent Worker,Middle Class,25,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+491,Makasar,52,Islam,Java,Senior High School,Private Employees,Middle Class,58,Agree,Agree,Agree,Agree,Disagree,Agree,Disagree
+492,Makasar,59,Islam,Java,Junior High School,Private Employees,Upper Class,44,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+493,Makasar,43,Islam,Java,Junior High School,Private Employees,Lower Class,35,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+494,Makasar,30,Islam,Java,Senior High School,Private Employees,Lower Class,59,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+495,Makasar,38,Islam,Bugis,Diploma,Government Employees,Middle Class,65,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+496,Makasar,30,Islam,Bugis,Diploma,Government Employees,Middle Class,41,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Disagree
+497,Makasar,34,Catholic,Bugis,Diploma,Enterpreneur,Upper Class,26,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+498,Makasar,28,Islam,Java,Diploma,Enterpreneur,Upper Class,76,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+499,Makasar,36,Islam,Java,Diploma,Enterpreneur,Upper Class,22,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+500,Makasar,45,Islam,Bugis,Bachelor degree,Private Employees,Middle Class,18,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Agree
+501,Makasar,59,Islam,Bugis,Primary School,Private Employees,Lower Class,57,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+502,Makasar,41,Islam,Bugis,Diploma,Private Employees,Middle Class,43,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree
+503,Makasar,62,Islam,Bugis,Diploma,Private Employees,Middle Class,38,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+504,Makasar,40,Catholic,Java,Primary School,Private Employees,Lower Class,61,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+505,Makasar,26,Catholic,Java,Diploma,Private Employees,Lower Class,58,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+506,Makasar,42,Catholic,Batak,Master and doctoral degree,Private Employees,Middle Class,34,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+507,Makasar,31,Islam,Java,Diploma,Teacher?/Lecturer,Upper Class,26,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+508,Makasar,36,Islam,Java,Master and doctoral degree,Teacher?/Lecturer,Lower Class,57,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree
+509,Makasar,46,Islam,Java,Senior High School,Government Employees,Upper Class,24,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+510,Makasar,59,Islam,Bugis,Senior High School,Government Employees,Upper Class,27,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly Agree,Agree,Strongly Agree
+511,Makasar,40,Islam,Bugis,Junior High School,Government Employees,Lower Class,67,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree
+512,Makasar,41,Islam,Bugis,Junior High School,Government Employees,Middle Class,36,Disagree,Agree,Disagree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree
+513,Makasar,54,Protestant,Java,Senior High School,Government Employees,Middle Class,42,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+514,Makasar,61,Protestant,Java,Senior High School,Police Officer?/Army,Lower Class,73,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+515,Makasar,32,Protestant,Java,Diploma,Police Officer?/Army,Middle Class,41,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+516,Makasar,26,Islam,Batak,Diploma,Private Employees,Middle Class,33,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+517,Makasar,62,Islam,Java,Junior High School,Private Employees,Upper Class,19,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+518,Makasar,30,Islam,Batak,Diploma,Government Employees,Lower Class,69,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+519,Makasar,41,Islam,Bugis,Bachelor degree,Police Officer?/Army,Upper Class,23,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree
+520,Makasar,27,Islam,Java,Diploma,Private Employees,Upper Class,25,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Disagree
+521,Makasar,35,Islam,Java,Master and doctoral degree,Private Employees,Lower Class,57,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+522,Makasar,28,Protestant,Java,Diploma,Private Employees,Middle Class,43,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+523,Makasar,36,Islam,Java,Diploma,Enterpreneur,Middle Class,38,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+524,Makasar,38,Islam,Java,Senior High School,Enterpreneur,Lower Class,61,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Agree,Agree,Agree
+525,Makasar,63,Islam,Minang,Senior High School,Enterpreneur,Lower Class,58,Agree,Agree,Agree,Strongly Agree,Disagree,Agree,Disagree
+526,Makasar,30,Hindu,Java,Diploma,Enterpreneur,Middle Class,34,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Agree,Agree
+527,Makasar,43,Protestant,Java,Senior High School,Government Employees,Upper Class,26,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+528,Makasar,40,Protestant,Java,Senior High School,Government Employees,Lower Class,57,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+529,Makasar,33,Protestant,Java,Senior High School,Government Employees,Upper Class,24,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree
+530,Makasar,31,Islam,Java,Senior High School,Government Employees,Upper Class,27,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+531,Makasar,36,Islam,Java,Bachelor degree,Government Employees,Lower Class,67,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+532,Makasar,52,Islam,Java,Bachelor degree,Private Employees,Middle Class,36,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree
+533,Makasar,59,Islam,Java,Senior High School,Private Employees,Middle Class,42,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+534,Makasar,38,Islam,Java,Master and doctoral degree,Private Employees,Lower Class,73,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+535,Makasar,40,Protestant,Java,Master and doctoral degree,Private Employees,Middle Class,41,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Strongly Agree,Agree
+536,Makasar,53,Protestant,Minang,Master and doctoral degree,Enterpreneur,Middle Class,33,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+537,Makasar,42,Catholic,Java,Diploma,Enterpreneur,Upper Class,19,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+538,Makasar,48,Catholic,Sunda,Diploma,Enterpreneur,Lower Class,69,Strongly Agree,Disagree,Strongly Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+539,Makasar,45,Islam,Java,Diploma,Enterpreneur,Upper Class,23,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+540,Makasar,40,Islam,Java,Master and doctoral degree,Enterpreneur,Upper Class,25,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Neither agree nor disagree,Disagree
+541,Makasar,50,Islam,Minang,Master and doctoral degree,Enterpreneur,Lower Class,58,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+542,Makasar,30,Islam,Java,Senior High School,Government Employees,Middle Class,44,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+543,Makasar,45,Islam,Java,Senior High School,Government Employees,Middle Class,35,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Disagree,Agree
+544,Makasar,25,Islam,Java,Master and doctoral degree,Government Employees,Lower Class,59,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+545,Makasar,29,Islam,Java,Senior High School,Government Employees,Lower Class,65,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Agree,Disagree
+546,Makasar,31,Islam,Java,Bachelor degree,Government Employees,Middle Class,41,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+547,Makasar,36,Catholic,Java,Senior High School,Government Employees,Upper Class,26,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+548,Makasar,52,Islam,Minang,Senior High School,Government Employees,Lower Class,76,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+549,Makasar,59,Islam,Java,Senior High School,Enterpreneur,Upper Class,22,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+550,Makasar,54,Islam,Java,Senior High School,Enterpreneur,Upper Class,18,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+551,Makasar,62,Islam,Java,Senior High School,Enterpreneur,Lower Class,57,Strongly Agree,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree
+552,Makasar,41,Islam,Java,Senior High School,Enterpreneur,Middle Class,43,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Disagree
+553,Makasar,36,Islam,Other,Bachelor degree,Enterpreneur,Middle Class,38,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Agree
+554,Makasar,23,Catholic,Java,Senior High School,Enterpreneur,Lower Class,61,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+555,Makasar,49,Catholic,Java,Senior High School,Independent Worker,Middle Class,58,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+556,Makasar,22,Catholic,Java,Senior High School,Independent Worker,Middle Class,34,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree
+557,Makasar,42,Islam,Java,Junior High School,Independent Worker,Upper Class,26,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+558,Makasar,31,Islam,Java,Primary School,Independent Worker,Lower Class,57,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+559,Makasar,36,Islam,Minang,Senior High School,Independent Worker,Upper Class,24,Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree,Agree
+560,Makasar,52,Islam,Java,Junior High School,Independent Worker,Upper Class,27,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+561,Makasar,59,Islam,Minang,Senior High School,Private Employees,Lower Class,67,Agree,Agree,Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+562,Makasar,37,Islam,Java,Master and doctoral degree,Private Employees,Middle Class,36,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Agree,Agree,Agree
+563,Denpasar,38,Protestant,Java,Diploma,Private Employees,Middle Class,42,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+564,Denpasar,54,Protestant,Java,Master and doctoral degree,Private Employees,Lower Class,73,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+565,Denpasar,50,Protestant,Java,Diploma,Government Employees,Lower Class,41,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+566,Denpasar,22,Islam,Sunda,Diploma,Government Employees,Middle Class,33,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+567,Denpasar,29,Islam,Java,Diploma,Enterpreneur,Upper Class,19,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Disagree,Agree,Disagree
+568,Denpasar,49,Islam,Minang,Junior High School,Enterpreneur,Lower Class,69,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+569,Denpasar,35,Islam,Java,Master and doctoral degree,Enterpreneur,Upper Class,23,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree
+570,Denpasar,30,Islam,Java,Senior High School,Private Employees,Upper Class,25,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+571,Denpasar,51,Islam,Java,Junior High School,Private Employees,Lower Class,57,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+572,Denpasar,23,Budha,Other,Senior High School,Private Employees,Middle Class,43,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Disagree
+573,Denpasar,42,Islam,Java,Bachelor degree,Private Employees,Middle Class,38,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+574,Denpasar,29,Islam,Java,Senior High School,Private Employees,Lower Class,61,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Disagree,Strongly Agree,Disagree
+575,Denpasar,28,Islam,Java,Senior High School,Private Employees,Middle Class,58,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+576,Denpasar,34,Hindu,Bali,Senior High School,Private Employees,Middle Class,34,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+577,Denpasar,59,Protestant,Java,Junior High School,Teacher?/Lecturer,Upper Class,26,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+578,Denpasar,54,Protestant,Java,Master and doctoral degree,Teacher?/Lecturer,Lower Class,57,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Agree,Agree,Agree
+579,Denpasar,38,Protestant,Java,Junior High School,Government Employees,Upper Class,24,Neither agree nor disagree,Disagree,Neither agree nor disagree,Strongly Agree,Disagree,Strongly Agree,Disagree
+580,Denpasar,61,Islam,Minang,Senior High School,Government Employees,Upper Class,27,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Strongly Agree,Agree
+581,Denpasar,24,Islam,Other,Bachelor degree,Government Employees,Middle Class,67,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+582,Denpasar,32,Islam,Other,Master and doctoral degree,Government Employees,Middle Class,36,Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+583,Denpasar,31,Islam,Java,Bachelor degree,Government Employees,Middle Class,42,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+584,Denpasar,25,Islam,Java,Senior High School,Police Officer?/Army,Lower Class,73,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+585,Denpasar,35,Protestant,Java,Senior High School,Police Officer?/Army,Lower Class,41,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+586,Denpasar,59,Protestant,Other,Diploma,Private Employees,Middle Class,33,Agree,Neither agree nor disagree,Agree,Strongly Agree,Agree,Disagree,Agree
+587,Denpasar,54,Catholic,Java,Diploma,Private Employees,Upper Class,19,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+588,Denpasar,37,Islam,Minang,Senior High School,Government Employees,Lower Class,69,Agree,Neither agree nor disagree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+589,Denpasar,54,Islam,Sunda,Senior High School,Police Officer?/Army,Lower Class,23,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree
+590,Denpasar,33,Islam,Sunda,Bachelor degree,Private Employees,Middle Class,25,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+591,Denpasar,29,Hindu,Bali,Bachelor degree,Private Employees,Middle Class,58,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+592,Denpasar,33,Hindu,Bali,Senior High School,Private Employees,Upper Class,44,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+593,Denpasar,35,Islam,Java,Senior High School,Enterpreneur,Lower Class,35,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+594,Denpasar,24,Islam,Java,Senior High School,Enterpreneur,Lower Class,59,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+595,Denpasar,28,Hindu,Bali,Senior High School,Enterpreneur,Middle Class,65,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+596,Denpasar,35,Hindu,Bali,Senior High School,Enterpreneur,Middle Class,41,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree
+597,Denpasar,42,Protestant,Java,Senior High School,Government Employees,Upper Class,26,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Agree,Agree
+598,Denpasar,25,Catholic,Java,Primary School,Government Employees,Upper Class,76,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+599,Denpasar,43,Islam,Java,Junior High School,Government Employees,Upper Class,22,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Agree,Disagree
+600,Denpasar,26,Islam,Java,Junior High School,Government Employees,Middle Class,18,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+601,Denpasar,30,Islam,Java,Senior High School,Government Employees,Lower Class,57,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+602,Denpasar,35,Protestant,Bali,Primary School,Private Employees,Middle Class,43,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+603,Denpasar,27,Protestant,Bali,Junior High School,Private Employees,Middle Class,38,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+604,Denpasar,33,Catholic,Bali,Junior High School,Private Employees,Lower Class,61,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+605,Denpasar,31,Hindu,Bali,Bachelor degree,Private Employees,Lower Class,58,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+606,Denpasar,36,Hindu,Bali,Bachelor degree,Enterpreneur,Middle Class,34,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+607,Denpasar,37,Hindu,Bali,Bachelor degree,Enterpreneur,Upper Class,26,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree
+608,Denpasar,63,Hindu,Bali,Junior High School,Enterpreneur,Lower Class,57,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree
+609,Denpasar,26,Hindu,Bali,Junior High School,Enterpreneur,Upper Class,24,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+610,Denpasar,34,Protestant,Java,Diploma,Enterpreneur,Upper Class,27,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Agree
+611,Denpasar,39,Islam,Java,Diploma,Enterpreneur,Lower Class,67,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+612,Denpasar,26,Catholic,Other,Diploma,Government Employees,Middle Class,36,Agree,Agree,Agree,Agree,Disagree,Agree,Disagree
+613,Denpasar,52,Catholic,Other,Senior High School,Government Employees,Middle Class,42,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+614,Denpasar,37,Catholic,Java,Diploma,Government Employees,Lower Class,73,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+615,Denpasar,32,Catholic,Bali,Master and doctoral degree,Government Employees,Middle Class,41,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Disagree,Strongly Agree,Disagree
+616,Denpasar,25,Hindu,Bali,Master and doctoral degree,Government Employees,Middle Class,33,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+617,Denpasar,31,Hindu,Bali,Senior High School,Government Employees,Upper Class,19,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Disagree
+618,Denpasar,37,Protestant,Bali,Diploma,Government Employees,Lower Class,69,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+619,Denpasar,52,Protestant,Bali,Senior High School,Enterpreneur,Upper Class,23,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+620,Denpasar,50,Hindu,Bali,Senior High School,Enterpreneur,Upper Class,25,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+621,Denpasar,51,Hindu,Bali,Bachelor degree,Enterpreneur,Lower Class,57,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree
+622,Denpasar,50,Hindu,Bali,Senior High School,Enterpreneur,Middle Class,43,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Disagree,Agree,Disagree
+623,Denpasar,33,Hindu,Bali,Bachelor degree,Enterpreneur,Middle Class,38,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree
+624,Denpasar,58,Hindu,Bali,Senior High School,Enterpreneur,Lower Class,61,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree
+625,Denpasar,25,Hindu,Bali,Senior High School,Independent Worker,Lower Class,58,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+626,Denpasar,29,Hindu,Bali,Senior High School,Independent Worker,Middle Class,34,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree
+627,Denpasar,33,Hindu,Bali,Senior High School,Independent Worker,Upper Class,26,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+628,Denpasar,34,Hindu,Bali,Diploma,Independent Worker,Lower Class,57,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+629,Denpasar,56,Hindu,Bali,Master and doctoral degree,Independent Worker,Upper Class,24,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Agree
+630,Denpasar,32,Hindu,Bali,Diploma,Independent Worker,Upper Class,27,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+631,Denpasar,45,Hindu,Bali,Master and doctoral degree,Private Employees,Lower Class,67,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree
+632,Denpasar,31,Hindu,Bali,Senior High School,Private Employees,Middle Class,36,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+633,Denpasar,41,Protestant,Bali,Diploma,Private Employees,Middle Class,42,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+634,Denpasar,52,Islam,Java,Master and doctoral degree,Private Employees,Lower Class,73,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+635,Denpasar,51,Islam,Minang,Bachelor degree,Government Employees,Middle Class,41,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+636,Denpasar,34,Islam,Java,Senior High School,Government Employees,Middle Class,33,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+637,Denpasar,51,Catholic,Other,Junior High School,Enterpreneur,Upper Class,19,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Disagree,Agree,Disagree
+638,Denpasar,39,Islam,Java,Diploma,Enterpreneur,Lower Class,69,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+639,Denpasar,42,Islam,Java,Diploma,Enterpreneur,Upper Class,23,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Disagree,Strongly Agree,Disagree
+640,Denpasar,52,Islam,Java,Diploma,Private Employees,Upper Class,25,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+641,Denpasar,51,Protestant,Bali,Senior High School,Private Employees,Lower Class,58,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+642,Denpasar,30,Hindu,Bali,Junior High School,Private Employees,Middle Class,44,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+643,Denpasar,37,Hindu,Bali,Bachelor degree,Private Employees,Middle Class,35,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Agree
+644,Denpasar,42,Hindu,Bali,Senior High School,Private Employees,Lower Class,59,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+645,Denpasar,26,Hindu,Bali,Diploma,Private Employees,Lower Class,65,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree
+646,Denpasar,37,Hindu,Bali,Bachelor degree,Private Employees,Middle Class,41,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+647,Denpasar,52,Islam,Java,Senior High School,Teacher?/Lecturer,Upper Class,26,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+648,Denpasar,25,Hindu,Bali,Primary School,Teacher?/Lecturer,Lower Class,76,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Agree,Strongly Agree
+649,Denpasar,34,Hindu,Bali,Primary School,Government Employees,Upper Class,22,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+650,Denpasar,57,Protestant,Bali,Junior High School,Government Employees,Upper Class,18,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+651,Denpasar,54,Protestant,Other,Senior High School,Government Employees,Lower Class,57,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+652,Denpasar,58,Hindu,Bali,Master and doctoral degree,Government Employees,Middle Class,43,Agree,Neither agree nor disagree,Agree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+653,Denpasar,24,Hindu,Bali,Senior High School,Government Employees,Middle Class,38,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Strongly Agree
+654,Denpasar,42,Hindu,Bali,Bachelor degree,Police Officer?/Army,Lower Class,61,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+655,Denpasar,55,Catholic,Java,Master and doctoral degree,Police Officer?/Army,Middle Class,58,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+656,Denpasar,54,Hindu,Bali,Master and doctoral degree,Private Employees,Middle Class,34,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+657,Denpasar,28,Islam,Java,Bachelor degree,Private Employees,Upper Class,26,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+658,Denpasar,34,Protestant,Bali,Senior High School,Government Employees,Lower Class,57,Agree,Strongly Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+659,Denpasar,32,Protestant,Java,Bachelor degree,Police Officer?/Army,Upper Class,24,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Disagree,Neither agree nor disagree,Disagree
+660,Denpasar,45,Hindu,Bali,Bachelor degree,Private Employees,Upper Class,27,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree
+661,Denpasar,49,Catholic,Java,Diploma,Private Employees,Lower Class,67,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree
+662,Denpasar,59,Hindu,Bali,Senior High School,Private Employees,Middle Class,36,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Agree
+663,Denpasar,53,Islam,Minang,Master and doctoral degree,Enterpreneur,Middle Class,42,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+664,Denpasar,48,Islam,Java,Bachelor degree,Enterpreneur,Lower Class,73,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+665,Denpasar,46,Islam,Batak,Senior High School,Enterpreneur,Lower Class,41,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+666,Denpasar,51,Hindu,Bali,Master and doctoral degree,Enterpreneur,Middle Class,33,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+667,Denpasar,52,Hindu,Bali,Junior High School,Government Employees,Upper Class,19,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+668,Denpasar,25,Hindu,Bali,Bachelor degree,Government Employees,Lower Class,69,Strongly Agree,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree
+669,Denpasar,24,Hindu,Bali,Senior High School,Government Employees,Upper Class,23,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+670,Denpasar,37,Hindu,Bali,Master and doctoral degree,Government Employees,Upper Class,25,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+671,Denpasar,56,Islam,Other,Bachelor degree,Government Employees,Lower Class,57,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+672,Denpasar,32,Hindu,Bali,Senior High School,Private Employees,Middle Class,43,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly Agree,Agree,Strongly Agree
+673,Denpasar,42,Catholic,Java,Diploma,Private Employees,Middle Class,38,Agree,Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree
+674,Denpasar,28,Protestant,Java,Senior High School,Private Employees,Lower Class,61,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly Agree,Agree,Strongly Agree
+675,Denpasar,29,Islam,Other,Senior High School,Private Employees,Middle Class,58,Strongly Agree,Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Disagree
+676,Denpasar,38,Protestant,Other,Senior High School,Enterpreneur,Middle Class,34,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+677,Denpasar,56,Catholic,Bali,Senior High School,Enterpreneur,Upper Class,26,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+678,Denpasar,32,Hindu,Bali,Bachelor degree,Enterpreneur,Lower Class,57,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+679,Denpasar,29,Hindu,Bali,Senior High School,Enterpreneur,Upper Class,24,Agree,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Agree
+680,Denpasar,27,Hindu,Bali,Bachelor degree,Enterpreneur,Upper Class,27,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Disagree,Neither agree nor disagree,Disagree
+681,Denpasar,55,Hindu,Bali,Senior High School,Enterpreneur,Middle Class,67,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Strongly Agree,Agree
+682,Denpasar,30,Hindu,Bali,Bachelor degree,Government Employees,Middle Class,36,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+683,Denpasar,29,Hindu,Bali,Junior High School,Government Employees,Middle Class,42,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+684,Denpasar,31,Hindu,Bali,Diploma,Government Employees,Lower Class,73,Agree,Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree
+685,Denpasar,26,Protestant,Java,Diploma,Government Employees,Lower Class,41,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+686,Denpasar,40,Islam,Minang,Bachelor degree,Government Employees,Middle Class,33,Agree,Disagree,Agree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree
+687,Denpasar,57,Catholic,Java,Junior High School,Government Employees,Upper Class,19,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Strongly Agree,Agree
+688,Denpasar,34,Catholic,Other,Senior High School,Government Employees,Lower Class,69,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+689,Denpasar,56,Islam,Java,Senior High School,Enterpreneur,Lower Class,23,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Strongly Agree,Strongly Agree
+690,Denpasar,39,Islam,Other,Senior High School,Enterpreneur,Middle Class,25,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+691,Denpasar,29,Hindu,Bali,Senior High School,Enterpreneur,Middle Class,58,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+692,Denpasar,52,Hindu,Bali,Junior High School,Enterpreneur,Upper Class,44,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+693,Denpasar,64,Hindu,Bali,Senior High School,Enterpreneur,Lower Class,35,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree
+694,Denpasar,52,Hindu,Bali,Senior High School,Enterpreneur,Lower Class,59,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+695,Denpasar,32,Islam,Java,Senior High School,Independent Worker,Middle Class,65,Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Agree,Disagree
+696,Denpasar,29,Islam,Java,Senior High School,Independent Worker,Middle Class,41,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+697,Denpasar,28,Islam,Java,Bachelor degree,Independent Worker,Upper Class,26,Agree,Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree
+698,Denpasar,27,Hindu,Bali,Senior High School,Independent Worker,Upper Class,76,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree
+699,Denpasar,52,Protestant,Batak,Junior High School,Independent Worker,Upper Class,22,Disagree,Agree,Disagree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree
+700,Denpasar,57,Protestant,Batak,Junior High School,Independent Worker,Middle Class,18,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree
+701,Denpasar,54,Protestant,Batak,Senior High School,Private Employees,Lower Class,57,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+702,Denpasar,56,Islam,Batak,Senior High School,Private Employees,Middle Class,43,Strongly Agree,Agree,Strongly Agree,Agree,Agree,Strongly Agree,Agree
+703,Denpasar,39,Islam,Java,Senior High School,Private Employees,Middle Class,38,Strongly Agree,Agree,Strongly Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+704,Denpasar,42,Islam,Java,Bachelor degree,Private Employees,Lower Class,61,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Agree,Agree
+705,Denpasar,52,Islam,Batak,Primary School,Government Employees,Lower Class,58,Agree,Strongly Agree,Agree,Strongly Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+706,Denpasar,64,Islam,Java,Junior High School,Government Employees,Middle Class,34,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Agree,Neither agree nor disagree
+707,Denpasar,51,Protestant,Java,Master and doctoral degree,Enterpreneur,Upper Class,26,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree
+708,Denpasar,26,Hindu,Batak,Senior High School,Enterpreneur,Lower Class,57,Strongly Agree,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree
+709,Denpasar,30,Hindu,Bali,Senior High School,Enterpreneur,Upper Class,24,Strongly Agree,Neither agree nor disagree,Strongly Agree,Neither agree nor disagree,Strongly Agree,Agree,Strongly Agree
+710,Denpasar,45,Catholic,Bali,Senior High School,Private Employees,Upper Class,27,Agree,Agree,Agree,Agree,Strongly Agree,Agree,Strongly Agree
