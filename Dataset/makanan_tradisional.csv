@@ -3,36 +3,36 @@ Timestamp,Type_Makanan,Code_Makanan,Amount_Makanan,Type_Minuman,Code_Minuman,Amo
 10:04,Mie ayam bakso,3,12,Es jeruk,2,10,0,DANA
 10:05,Ayam bakar,4,10,Es teh,1,5,0,LINK AJA
 10:06,Nasi goreng,2,9,Mineral water,3,9,0,DANA
-10:07,Mie ayam bakso,3,11,Es jeruk,2,3,1,DANA
+10:07,Soto,6,11,Es jeruk,2,3,1,DANA
 10:08,Ayam bakar,4,8,Es teh,1,4,1,DANA
 10:09,Bakso kuah,1,7,Es teh,1,7,1,GOPAY
-10:11,Bakso kuah,1,6,Es teh,1,3,1,TUNAI
+10:11,Ayam goreng,5,6,Es teh,1,3,1,TUNAI
 10:12,Ayam bakar,4,5,Mineral water,3,2,0,TUNAI
 10:16,Nasi goreng,2,9,Mineral water,3,9,0,TUNAI
 10:17,Mie ayam bakso,3,11,Es jeruk,2,3,1,DANA
-10:19,Bakso kuah,1,7,Es teh,1,7,1,OVO
-10:20,Nasi goreng,2,11,Es campur,4,3,0,LINK AJA
-10:24,Bakso kuah,1,8,Es teh,1,10,0,GOPAY
+10:19,Ayam goreng,5,7,Es teh,1,7,1,OVO
+10:20,Ayam goreng,5,11,Es campur,4,3,0,LINK AJA
+10:24,Ayam goreng,5,8,Es teh,1,10,0,GOPAY
 10:25,Bakso kuah,1,7,Es teh,1,5,1,OVO
 10:26,Soto,6,11,Es teh,1,9,0,TUNAI
 10:33,Bakso kuah,1,1,Es teh,1,1,1,GOPAY
-10:37,Bakso kuah,1,1,Mineral water,3,1,1,DANA
-10:38,Bakso kuah,1,1,Mineral water,3,1,1,LINK AJA
+10:37,Ayam goreng,5,1,Mineral water,3,1,1,DANA
+10:38,Soto,6,1,Mineral water,3,1,1,LINK AJA
 10:39,Nasi goreng,2,3,Mineral water,3,3,0,LINK AJA
 10:43,Mie ayam bakso,3,9,Es jeruk,2,9,0,LINK AJA
-10:44,Ayam bakar,4,3,Es teh,1,3,0,DANA
+10:44,Soto,6,3,Es teh,1,3,0,DANA
 10:45,Ayam bakar,4,5,Mineral water,3,5,0,OVO
-10:48,Ayam bakar,4,5,Es teh,1,5,0,GOPAY
+10:48,Ayam goreng,5,5,Es teh,1,5,0,GOPAY
 10:49,Ayam goreng,5,1,Es campur,4,1,0,OVO
 10:53,Nasi goreng,2,7,Es campur,4,2,1,GOPAY
 10:54,Mie ayam bakso,3,12,Es jeruk,2,10,0,DANA
 10:58,Ayam bakar,4,8,Es teh,1,4,1,TUNAI
-10:59,Bakso kuah,1,7,Es teh,1,7,1,GOPAY
+10:59,Ayam goreng,5,7,Es teh,1,7,1,GOPAY
 11:02,Ayam bakar,4,5,Mineral water,3,2,0,LINK AJA
 11:05,Nasi goreng,2,7,Es campur,4,3,1,TUNAI
-11:07,Mie ayam bakso,3,12,Es jeruk,2,10,0,OVO
-11:08,Ayam bakar,4,10,Es teh,1,5,0,LINK AJA
-11:10,Nasi goreng,2,9,Mineral water,3,9,0,OVO
+11:07,Soto,6,12,Es jeruk,2,10,0,OVO
+11:08,Ayam goreng,5,10,Es teh,1,5,0,LINK AJA
+11:10,Ayam goreng,5,9,Mineral water,3,9,0,OVO
 11:14,Soto,6,3,Mineral water,3,3,0,GOPAY
 11:17,Mie ayam bakso,3,3,Es jeruk,2,3,1,TUNAI
 11:19,Bakso kuah,1,1,Mineral water,3,1,1,LINK AJA
@@ -42,9 +42,9 @@ Timestamp,Type_Makanan,Code_Makanan,Amount_Makanan,Type_Minuman,Code_Minuman,Amo
 11:23,Ayam bakar,4,5,Mineral water,3,5,0,TUNAI
 11:24,Nasi goreng,2,5,Es campur,4,5,1,OVO
 11:25,Mie ayam bakso,3,5,Es jeruk,2,5,0,LINK AJA
-11:26,Ayam bakar,4,5,Es teh,1,5,0,LINK AJA
+11:26,Ayam goreng,5,5,Es teh,1,5,0,LINK AJA
 11:27,Bakso kuah,1,1,Es campur,4,1,0,TUNAI
-11:28,Bakso kuah,1,3,Es jeruk,2,3,0,OVO
+11:28,Ayam goreng,5,3,Es jeruk,2,3,0,OVO
 11:29,Soto,6,6,Es teh,1,3,1,DANA
 11:30,Soto,6,6,Es teh,1,3,1,OVO
 11:31,Ayam bakar,4,5,Mineral water,3,2,0,OVO
@@ -55,20 +55,20 @@ Timestamp,Type_Makanan,Code_Makanan,Amount_Makanan,Type_Minuman,Code_Minuman,Amo
 11:38,Mie ayam bakso,3,11,Es jeruk,2,3,1,TUNAI
 11:40,Soto,6,8,Es teh,1,4,1,LINK AJA
 11:42,Bakso kuah,1,7,Es teh,1,7,1,LINK AJA
-11:43,Nasi goreng,2,11,Es campur,4,3,0,OVO
+11:43,Soto,6,11,Es campur,4,3,0,OVO
 11:44,Ayam goreng,5,6,Es teh,1,3,1,DANA
 11:45,Ayam bakar,4,5,Mineral water,3,2,0,TUNAI
 11:46,Nasi goreng,2,7,Es campur,4,2,1,DANA
 11:47,Mie ayam bakso,3,12,Es jeruk,2,10,0,OVO
-11:48,Ayam bakar,4,10,Es teh,1,5,0,DANA
-11:49,Nasi goreng,2,9,Mineral water,3,9,0,LINK AJA
-11:50,Mie ayam bakso,3,11,Es jeruk,2,3,1,DANA
+11:48,Ayam goreng,5,10,Es teh,1,5,0,DANA
+11:49,Ayam goreng,5,9,Mineral water,3,9,0,LINK AJA
+11:50,Soto,6,11,Es jeruk,2,3,1,DANA
 11:51,Ayam bakar,4,8,Es teh,1,4,1,LINK AJA
 11:52,Bakso kuah,1,7,Es teh,1,7,1,TUNAI
 11:53,Nasi goreng,2,11,Es campur,4,4,0,DANA
 11:58,Bakso kuah,1,10,Es teh,1,3,1,DANA
-11:59,Bakso kuah,1,9,Mineral water,3,2,1,LINK AJA
-12:04,Bakso kuah,1,11,Es jeruk,2,3,1,GOPAY
+11:59,Soto,6,9,Mineral water,3,2,1,LINK AJA
+12:04,Soto,6,11,Es jeruk,2,3,1,GOPAY
 12:05,Soto,6,8,Es teh,1,10,0,OVO
 12:06,Ayam goreng,5,7,Es teh,1,5,1,GOPAY
 12:07,Ayam goreng,5,11,Es teh,1,9,0,OVO
@@ -78,30 +78,30 @@ Timestamp,Type_Makanan,Code_Makanan,Amount_Makanan,Type_Minuman,Code_Minuman,Amo
 12:15,Bakso kuah,1,1,Es teh,1,1,1,GOPAY
 12:18,Soto,6,1,Es teh,1,1,1,OVO
 12:20,Bakso kuah,1,1,Es teh,1,1,1,LINK AJA
-12:22,Bakso kuah,1,1,Es teh,1,1,1,TUNAI
+12:22,Soto,6,1,Es teh,1,1,1,TUNAI
 12:24,Ayam bakar,4,1,Es teh,1,1,1,GOPAY
-12:30,Bakso kuah,1,1,Mineral water,3,1,1,TUNAI
-12:34,Bakso kuah,1,1,Mineral water,3,1,1,TUNAI
+12:30,Ayam goreng,5,1,Mineral water,3,1,1,TUNAI
+12:34,Soto,6,1,Mineral water,3,1,1,TUNAI
 12:36,Soto,6,1,Mineral water,3,1,1,TUNAI
 12:38,Bakso kuah,1,1,Mineral water,3,1,1,DANA
 12:39,Nasi goreng,2,3,Mineral water,3,3,0,GOPAY
 12:40,Mie ayam bakso,3,3,Es jeruk,2,3,1,LINK AJA
 12:45,Bakso kuah,1,1,Mineral water,3,1,1,DANA
-12:48,Nasi goreng,2,3,Mineral water,3,3,0,DANA
+12:48,Ayam goreng,5,3,Mineral water,3,3,0,DANA
 12:50,Mie ayam bakso,3,9,Es jeruk,2,9,0,OVO
 12:52,Ayam bakar,4,3,Es teh,1,3,0,LINK AJA
-12:54,Ayam bakar,4,5,Mineral water,3,5,0,DANA
+12:54,Soto,6,5,Mineral water,3,5,0,DANA
 12:56,Nasi goreng,2,5,Es campur,4,5,1,DANA
-12:58,Mie ayam bakso,3,5,Es jeruk,2,5,0,DANA
+12:58,Soto,6,5,Es jeruk,2,5,0,DANA
 13:00,Ayam bakar,4,5,Es teh,1,5,0,DANA
 13:01,Bakso kuah,1,1,Es campur,4,1,0,LINK AJA
-13:03,Bakso kuah,1,3,Es jeruk,2,3,0,OVO
+13:03,Ayam goreng,5,3,Es jeruk,2,3,0,OVO
 13:05,Soto,6,6,Es teh,1,3,1,LINK AJA
 13:07,Ayam bakar,4,5,Mineral water,3,2,0,GOPAY
 13:10,Nasi goreng,2,7,Es campur,4,3,1,LINK AJA
 13:12,Mie ayam bakso,3,12,Es jeruk,2,10,0,GOPAY
-13:14,Ayam bakar,4,10,Es teh,1,5,0,OVO
-13:16,Nasi goreng,2,9,Mineral water,3,9,0,GOPAY
+13:14,Soto,6,10,Es teh,1,5,0,OVO
+13:16,Ayam goreng,5,9,Mineral water,3,9,0,GOPAY
 13:20,Mie ayam bakso,3,11,Es jeruk,2,3,1,DANA
 13:22,Ayam bakar,4,8,Es teh,1,4,1,GOPAY
 13:24,Bakso kuah,1,7,Es teh,1,7,1,GOPAY
@@ -109,49 +109,49 @@ Timestamp,Type_Makanan,Code_Makanan,Amount_Makanan,Type_Minuman,Code_Minuman,Amo
 13:30,Bakso kuah,1,6,Es teh,1,3,1,GOPAY
 13:33,Ayam bakar,4,5,Mineral water,3,2,0,TUNAI
 13:35,Nasi goreng,2,7,Es campur,4,2,1,GOPAY
-13:38,Mie ayam bakso,3,12,Es jeruk,2,10,0,DANA
+13:38,Soto,6,12,Es jeruk,2,10,0,DANA
 13:41,Bakso kuah,1,6,Es teh,1,3,1,LINK AJA
 13:45,Ayam bakar,4,5,Mineral water,3,2,0,TUNAI
 13:48,Nasi goreng,2,7,Es campur,4,4,1,OVO
-13:49,Mie ayam bakso,3,12,Es jeruk,2,10,0,TUNAI
+13:49,Soto,6,12,Es jeruk,2,10,0,TUNAI
 13:52,Ayam bakar,4,10,Es teh,1,5,0,OVO
 13:55,Nasi goreng,2,9,Mineral water,3,9,0,LINK AJA
 13:57,Mie ayam bakso,3,11,Es jeruk,2,3,1,LINK AJA
-14:01,Ayam bakar,4,8,Es teh,1,4,1,DANA
-14:04,Bakso kuah,1,7,Es teh,1,7,1,OVO
+14:01,Soto,6,8,Es teh,1,4,1,DANA
+14:04,Soto,6,7,Es teh,1,7,1,OVO
 14:07,Nasi goreng,2,11,Es campur,4,4,0,LINK AJA
 14:10,Bakso kuah,1,6,Es teh,1,3,1,LINK AJA
 14:13,Ayam bakar,4,5,Mineral water,3,2,0,TUNAI
-14:16,Nasi goreng,2,7,Es campur,4,3,1,OVO
+14:16,Ayam goreng,5,7,Es campur,4,3,1,OVO
 14:18,Mie ayam bakso,3,12,Es jeruk,2,10,0,GOPAY
 14:21,Ayam bakar,4,10,Es teh,1,5,0,TUNAI
 14:23,Nasi goreng,2,9,Mineral water,3,9,0,OVO
-14:25,Mie ayam bakso,3,11,Es jeruk,2,3,1,OVO
+14:25,Soto,6,11,Es jeruk,2,3,1,OVO
 14:29,Ayam bakar,4,8,Es teh,1,4,1,GOPAY
-14:32,Bakso kuah,1,7,Es teh,1,7,1,LINK AJA
+14:32,Soto,6,7,Es teh,1,7,1,LINK AJA
 14:35,Nasi goreng,2,11,Es campur,4,4,0,TUNAI
 14:37,Bakso kuah,1,10,Es teh,1,3,1,GOPAY
 14:40,Bakso kuah,1,9,Mineral water,3,2,1,DANA
 14:43,Soto,6,11,Es jeruk,2,4,1,TUNAI
 14:46,Soto,6,8,Es teh,1,10,0,DANA
 14:48,Bakso kuah,1,7,Es teh,1,5,1,LINK AJA
-14:50,Bakso kuah,1,11,Es teh,1,9,0,OVO
-14:52,Bakso kuah,1,2,Mineral water,3,2,0,DANA
+14:50,Ayam goreng,5,11,Es teh,1,9,0,OVO
+14:52,Soto,6,2,Mineral water,3,2,0,DANA
 14:54,Ayam goreng,5,1,Es campur,4,1,0,LINK AJA
 14:56,Soto,6,3,Es jeruk,2,3,0,OVO
 14:58,Bakso kuah,1,2,Es teh,1,2,1,LINK AJA
 15:00,Ayam goreng,5,2,Es teh,1,2,1,DANA
 15:04,Bakso kuah,1,2,Es teh,1,2,1,OVO
-15:07,Bakso kuah,1,2,Es teh,1,2,1,OVO
+15:07,Soto,6,2,Es teh,1,2,1,OVO
 15:09,Soto,6,1,Es teh,1,2,1,LINK AJA
 15:11,Bakso kuah,1,1,Mineral water,3,1,1,TUNAI
-15:13,Bakso kuah,1,1,Mineral water,3,1,1,TUNAI
+15:13,Ayam goreng,5,1,Mineral water,3,1,1,TUNAI
 15:15,Bakso kuah,1,1,Mineral water,3,1,1,GOPAY
 15:18,Soto,6,1,Mineral water,3,1,1,LINK AJA
 15:20,Nasi goreng,2,3,Mineral water,3,3,0,DANA
 15:22,Mie ayam bakso,3,3,Es jeruk,2,3,1,DANA
 15:25,Bakso kuah,1,1,Mineral water,3,1,1,DANA
-15:28,Nasi goreng,2,3,Mineral water,3,3,0,LINK AJA
+15:28,Ayam goreng,5,3,Mineral water,3,3,0,LINK AJA
 15:31,Mie ayam bakso,3,9,Es jeruk,2,9,0,OVO
 15:35,Ayam bakar,4,3,Es teh,1,3,0,LINK AJA
 15:37,Ayam bakar,4,5,Mineral water,3,5,0,LINK AJA
@@ -165,18 +165,18 @@ Timestamp,Type_Makanan,Code_Makanan,Amount_Makanan,Type_Minuman,Code_Minuman,Amo
 16:07,Nasi goreng,2,7,Es campur,4,3,1,GOPAY
 16:09,Mie ayam bakso,3,12,Es jeruk,2,10,0,DANA
 16:11,Ayam bakar,4,10,Es teh,1,5,0,TUNAI
-16:16,Nasi goreng,2,9,Mineral water,3,9,0,GOPAY
+16:16,Soto,6,9,Mineral water,3,9,0,GOPAY
 16:19,Mie ayam bakso,3,11,Es jeruk,2,3,1,DANA
 16:21,Ayam bakar,4,8,Es teh,1,4,1,DANA
-16:26,Bakso kuah,1,7,Es teh,1,7,1,LINK AJA
+16:26,Soto,6,7,Es teh,1,7,1,LINK AJA
 16:28,Nasi goreng,2,11,Es campur,4,3,0,LINK AJA
 16:30,Bakso kuah,1,6,Es teh,1,3,1,GOPAY
 16:34,Ayam bakar,4,5,Mineral water,3,2,0,TUNAI
 16:38,Nasi goreng,2,7,Es campur,4,3,1,GOPAY
 16:41,Mie ayam bakso,3,12,Es jeruk,2,10,0,LINK AJA
 16:43,Ayam bakar,4,10,Es teh,1,5,0,OVO
-16:45,Nasi goreng,2,9,Mineral water,3,9,0,TUNAI
-16:49,Nasi goreng,2,3,Mineral water,3,3,0,DANA
+16:45,Soto,6,9,Mineral water,3,9,0,TUNAI
+16:49,Soto,6,3,Mineral water,3,3,0,DANA
 16:52,Mie ayam bakso,3,3,Es jeruk,2,3,1,OVO
 16:55,Bakso kuah,1,1,Mineral water,3,1,1,TUNAI
 16:58,Nasi goreng,2,3,Mineral water,3,3,0,TUNAI
@@ -187,7 +187,7 @@ Timestamp,Type_Makanan,Code_Makanan,Amount_Makanan,Type_Minuman,Code_Minuman,Amo
 17:12,Mie ayam bakso,3,5,Es jeruk,2,5,0,GOPAY
 17:14,Ayam bakar,4,5,Es teh,1,5,0,LINK AJA
 17:18,Bakso kuah,1,1,Es campur,4,1,0,TUNAI
-17:21,Bakso kuah,1,3,Es jeruk,2,3,0,OVO
+17:21,Ayam goreng,5,3,Es jeruk,2,3,0,OVO
 17:23,Bakso kuah,1,6,Es teh,1,3,1,TUNAI
 17:25,Bakso kuah,1,6,Es teh,1,3,1,GOPAY
 17:28,Ayam bakar,4,5,Mineral water,3,2,0,DANA
@@ -197,7 +197,7 @@ Timestamp,Type_Makanan,Code_Makanan,Amount_Makanan,Type_Minuman,Code_Minuman,Amo
 17:38,Nasi goreng,2,9,Mineral water,3,9,0,LINK AJA
 17:40,Mie ayam bakso,3,11,Es jeruk,2,3,1,TUNAI
 17:43,Ayam bakar,4,8,Es teh,1,4,1,LINK AJA
-17:45,Bakso kuah,1,7,Es teh,1,7,1,TUNAI
+17:45,Ayam goreng,5,7,Es teh,1,7,1,TUNAI
 17:47,Nasi goreng,2,11,Es campur,4,3,0,DANA
 17:51,Bakso kuah,1,6,Es teh,1,3,1,OVO
 17:53,Ayam bakar,4,5,Mineral water,3,2,0,DANA
@@ -280,9 +280,9 @@ Timestamp,Type_Makanan,Code_Makanan,Amount_Makanan,Type_Minuman,Code_Minuman,Amo
 20:34,Nasi goreng,2,5,Es campur,4,5,1,GOPAY
 20:36,Mie ayam bakso,3,5,Es jeruk,2,5,0,TUNAI
 20:38,Ayam bakar,4,5,Es teh,1,5,0,DANA
-20:41,Bakso kuah,1,1,Es campur,4,1,0,LINK AJA
-20:44,Bakso kuah,1,3,Es jeruk,2,3,0,LINK AJA
-20:46,Bakso kuah,1,6,Es teh,1,3,1,LINK AJA
+20:41,Ayam goreng,5,1,Es campur,4,1,0,LINK AJA
+20:44,Ayam goreng,5,3,Es jeruk,2,3,0,LINK AJA
+20:46,Ayam goreng,5,6,Es teh,1,3,1,LINK AJA
 20:49,Bakso kuah,1,6,Es teh,1,3,1,TUNAI
 20:51,Ayam bakar,4,5,Mineral water,3,2,0,OVO
 20:55,Nasi goreng,2,7,Es campur,4,3,1,GOPAY
@@ -303,37 +303,37 @@ Timestamp,Type_Makanan,Code_Makanan,Amount_Makanan,Type_Minuman,Code_Minuman,Amo
 21:32,Ayam bakar,4,8,Es teh,1,4,1,OVO
 21:34,Bakso kuah,1,7,Es teh,1,7,1,DANA
 21:37,Nasi goreng,2,11,Es campur,4,3,0,GOPAY
-21:39,Bakso kuah,1,10,Es teh,1,3,1,OVO
-21:41,Bakso kuah,1,9,Mineral water,3,2,1,TUNAI
-21:44,,6,11,Es jeruk,2,4,1,TUNAI
+21:39,Ayam goreng,5,10,Es teh,1,3,1,OVO
+21:41,Ayam goreng,5,9,Mineral water,3,2,1,TUNAI
+21:44,Soto,6,11,Es jeruk,2,4,1,TUNAI
 21:47,Bakso kuah,1,8,Es teh,1,10,0,TUNAI
 21:50,Bakso kuah,1,7,Es teh,1,5,1,TUNAI
 21:53,Bakso kuah,1,11,Es teh,1,9,0,DANA
-21:55,,5,2,Mineral water,3,2,0,DANA
+21:55,Ayam goreng,5,2,Mineral water,3,2,0,DANA
 21:57,Bakso kuah,1,1,Es campur,4,1,0,TUNAI
 10:00,Nasi goreng,2,3,Mineral water,3,4,1,OVO
 10:01,Bakso kuah,1,7,Es campur,4,2,0,LINK AJA
-10:04,Bakso kuah,1,5,Mineral water,3,7,0,GOPAY
-10:06,Bakso kuah,1,7,Es teh,1,4,1,DANA
+10:04,Ayam goreng,5,5,Mineral water,3,7,0,GOPAY
+10:06,Ayam goreng,5,7,Es teh,1,4,1,DANA
 10:09,Nasi goreng,2,9,Es jeruk,2,2,1,OVO
 10:11,Ayam bakar,4,1,Mineral water,3,4,0,TUNAI
 10:14,Nasi goreng,2,2,Es campur,4,3,1,TUNAI
-10:16,,6,10,Es jeruk,2,3,1,TUNAI
+10:16,Soto,6,10,Es jeruk,2,3,1,TUNAI
 10:18,Bakso kuah,1,1,Es teh,1,2,0,GOPAY
 10:20,Mie ayam bakso,3,6,Es jeruk,2,5,1,TUNAI
 10:22,Nasi goreng,2,5,Es jeruk,2,6,0,DANA
 10:25,Nasi goreng,2,5,Es jeruk,2,9,1,LINK AJA
 10:27,Mie ayam bakso,3,9,Es campur,4,2,0,OVO
 10:29,Nasi goreng,2,5,Es teh,1,2,1,GOPAY
-10:31,Nasi goreng,2,4,Es teh,1,7,0,TUNAI
-10:33,Nasi goreng,2,7,Es campur,4,4,1,TUNAI
+10:31,Ayam goreng,5,4,Es teh,1,7,0,TUNAI
+10:33,Ayam goreng,5,7,Es campur,4,4,1,TUNAI
 10:36,Ayam bakar,4,5,Es campur,4,1,1,OVO
 10:38,Ayam bakar,4,8,Mineral water,3,8,0,TUNAI
 10:41,Nasi goreng,2,6,Es campur,4,2,1,DANA
 10:44,Ayam bakar,4,7,Es teh,1,9,1,LINK AJA
 10:46,Nasi goreng,2,4,Mineral water,3,1,1,GOPAY
 10:49,Nasi goreng,2,4,Es teh,1,3,0,OVO
-10:51,,6,4,Mineral water,3,4,0,TUNAI
+10:51,Soto,6,4,Mineral water,3,4,0,TUNAI
 10:53,Mie ayam bakso,3,4,Es jeruk,2,5,0,OVO
 10:56,Nasi goreng,2,5,Es jeruk,2,4,1,OVO
 10:58,Nasi goreng,2,1,Es campur,4,3,0,GOPAY
@@ -342,7 +342,7 @@ Timestamp,Type_Makanan,Code_Makanan,Amount_Makanan,Type_Minuman,Code_Minuman,Amo
 11:04,Nasi goreng,2,3,Es campur,4,2,1,TUNAI
 11:07,Nasi goreng,2,9,Es campur,4,2,1,GOPAY
 11:08,Bakso kuah,1,4,Es campur,4,1,0,OVO
-11:10,Bakso kuah,1,2,Es campur,4,3,1,OVO
+11:10,Ayam goreng,5,2,Es campur,4,3,1,OVO
 11:11,Bakso kuah,1,10,Es jeruk,2,2,1,GOPAY
 11:13,Bakso kuah,1,8,Es teh,1,5,0,TUNAI
-11:17,,5,2,Mineral water,3,5,1,OVO
+11:17,Ayam goreng,5,2,Mineral water,3,5,1,OVO
